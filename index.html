@@ -60,63 +60,63 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:22px
 footer a{color:var(--accent);text-decoration:none;}
 @media(max-width:640px){.grid{grid-template-columns:1fr;}}
 .badge-live{background:rgba(94,207,164,.15);border:1px solid var(--accent3);color:var(--accent3);border-radius:20px;padding:3px 11px;font-size:.72rem;font-weight:600;display:flex;align-items:center;gap:5px;}.dot-live{width:6px;height:6px;border-radius:50%;background:var(--accent3);animation:blink 1.5s ease-in-out infinite;}@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}.uptime{font-size:.7rem;color:var(--muted);}.tabs{background:var(--surface);border-bottom:1px solid var(--border);}.tabs-inner{max-width:1200px;margin:0 auto;padding:0 20px;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;}.tabs-inner::-webkit-scrollbar{display:none;}.tab{padding:11px 17px;font-size:.81rem;font-weight:600;border:none;background:transparent;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;white-space:nowrap;transition:all .18s;}.tab.on{color:var(--accent);border-bottom-color:var(--accent);}.tab:hover:not(.on){color:var(--text);}.topbar{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;flex-wrap:wrap;gap:8px;}.count-txt{font-size:.82rem;color:var(--muted);}.count-txt b{color:var(--text);}.pills{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:20px;}.pill{font-size:.71rem;font-weight:600;border-radius:20px;padding:4px 12px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;transition:all .18s;}.pill.on{background:var(--accent);border-color:var(--accent);color:#fff;}.pill:hover:not(.on){color:var(--text);}.card.bookmarked{border-color:rgba(245,200,66,.5);}.card.bookmarked:hover{border-color:var(--gold);}.bm-btn{position:absolute;top:10px;right:10px;z-index:10;width:34px;height:34px;border-radius:50%;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:16px;transition:all .18s;background:rgba(0,0,0,.55);backdrop-filter:blur(6px);color:rgba(255,255,255,.7);}.bm-btn:hover{background:rgba(0,0,0,.75);transform:scale(1.12);}.bm-btn.on{background:rgba(245,200,66,.25);color:var(--gold);border:1px solid rgba(245,200,66,.4);}.bm-count{display:inline-flex;align-items:center;justify-content:center;min-width:18px;height:18px;background:var(--gold);color:#111;border-radius:9px;font-size:.62rem;font-weight:800;padding:0 5px;margin-left:5px;transition:all .2s;}.bm-count:empty{display:none;}.bm-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;flex-wrap:wrap;gap:8px;}.bm-bar-left{font-size:.82rem;color:var(--muted);}.bm-bar-left b{color:var(--text);}.bm-clear-btn{background:transparent;border:1px solid rgba(255,80,80,.3);color:rgba(255,120,120,.8);border-radius:7px;padding:5px 12px;font-size:.75rem;cursor:pointer;transition:all .18s;}.bm-clear-btn:hover{background:rgba(255,80,80,.1);border-color:rgba(255,80,80,.6);}.toast{position:fixed;bottom:28px;left:50%;transform:translateX(-50%) translateY(20px);background:rgba(30,30,45,.97);border:1px solid var(--border);color:var(--text);border-radius:10px;padding:10px 20px;font-size:.82rem;font-weight:600;z-index:999;opacity:0;transition:all .3s;pointer-events:none;backdrop-filter:blur(8px);white-space:nowrap;}.toast.show{opacity:1;transform:translateX(-50%) translateY(0);}.update-info{background:rgba(124,106,247,.07);border:1px solid rgba(124,106,247,.18);border-radius:10px;padding:13px 18px;margin-top:32px;display:flex;align-items:center;gap:12px;font-size:.8rem;color:var(--muted);}.update-info strong{color:var(--accent);}.archive-banner{background:rgba(245,200,66,.07);border:1px solid rgba(245,200,66,.2);border-radius:10px;padding:13px 18px;margin-top:14px;display:flex;align-items:center;gap:12px;font-size:.8rem;color:var(--muted);}.sources-section{margin-top:40px;}.sources-head{display:flex;align-items:center;gap:10px;margin-bottom:16px;}.sources-head h2{font-size:1rem;font-weight:700;}.sources-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;}.source-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 18px;display:flex;align-items:center;gap:13px;text-decoration:none;color:var(--text);transition:all .18s;}.source-card:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 4px 18px rgba(124,106,247,.12);}.source-icon{width:38px;height:38px;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;}.source-info strong{display:block;font-size:.85rem;font-weight:700;}.source-info span{font-size:.72rem;color:var(--muted);}hr{border:none;border-top:1px solid var(--border);margin:36px 0;}.flinks{display:flex;gap:14px;flex-wrap:wrap;justify-content:center;margin-top:8px;}</style></head><body><header><div class="hdr"><div class="logo"><div class="logo-icon" style="background:linear-gradient(135deg,var(--accent),var(--accent2))">🏆</div><div><h1>海外広告賞 最新事例</h1><p>GLOBAL AD AWARDS &amp; CAMPAIGNS — 日本語速報</p></div></div><div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;"><span class="badge-live"><span class="dot-live"></span>最新情報</span><span class="uptime" id="uptime">読み込み中...</span></div></div></header><div class="tabs"><div class="tabs-inner"><button class="tab on" onclick="switchTab('all',this)">🆕 すべて</button><button class="tab" onclick="switchTab('cannes',this)">🦁 Cannes Lions</button><button class="tab" onclick="switchTab('clio',this)">🏅 Clio Awards</button><button class="tab" onclick="switchTab('dad',this)">✏️ D&amp;AD</button><button class="tab" onclick="switchTab('oneshow',this)">🖊 One Show</button><button class="tab" onclick="switchTab('spikes',this)">🔰 Spikes Asia</button><button class="tab" onclick="switchTab('notable',this)">🔥 注目事例</button><button class="tab" id="tab-bm-btn" onclick="switchTab('bookmark',this)">🔖 ブックマーク<span class="bm-count" id="bmCount"></span></button></div></div><div class="wrap"><div class="topbar"><div class="count-txt">掲載事例 <b id="cnt">—</b> 件</div></div><div class="pills"><button class="pill on" onclick="filterPill('all',this)">すべて</button><button class="pill" onclick="filterPill('cannes',this)">Cannes Lions</button><button class="pill" onclick="filterPill('clio',this)">Clio Awards</button><button class="pill" onclick="filterPill('dad',this)">D&amp;AD</button><button class="pill" onclick="filterPill('oneshow',this)">One Show</button><button class="pill" onclick="filterPill('spikes',this)">🔰 Spikes Asia</button><button class="pill" onclick="filterPill('notable',this)">🔥 注目事例</button></div><div id="pane-main"><div id="grid" class="grid"></div></div><div id="tab-bookmark" style="display:none"><div class="bm-bar"><span class="bm-bar-left">ブックマーク済み：<b id="bmCountDetail">0</b> 件</span><button class="bm-clear-btn" onclick="clearAllBookmarks()">🗑 すべて削除</button></div><div id="bmGrid" class="grid"></div></div><div class="update-info"><span style="font-size:1.4rem;flex-shrink:0">🔄</span><div>事例データは<strong>毎朝自動更新</strong>されます。広告賞受賞作＋注目キャンペーン事例を収録。</div></div><div class="archive-banner"><span style="font-size:1.3rem;flex-shrink:0">📦</span><div>以前の事例は<strong style="color:var(--gold)"><a href="/ad-awards-archive.html" style="color:var(--gold);text-decoration:none;">アーカイブページ</a></strong>でご確認いただけます。</div></div><hr><div class="sources-section"><div class="sources-head"><h2>📰 最新情報を確認する</h2></div><div class="sources-grid"><a class="source-card" href="https://www.canneslions.com/awards" target="_blank"><div class="source-icon" style="background:rgba(124,106,247,.15)">🦁</div><div class="source-info"><strong>Cannes Lions</strong><span>公式受賞作品</span></div></a><a class="source-card" href="https://clios.com/the-clio-awards/winners/" target="_blank"><div class="source-icon" style="background:rgba(247,162,106,.15)">🏅</div><div class="source-info"><strong>Clio Awards</strong><span>受賞者一覧</span></div></a><a class="source-card" href="https://www.dandad.org/en/d-ad-awards-pencil-winners/" target="_blank"><div class="source-icon" style="background:rgba(94,207,164,.15)">✏️</div><div class="source-info"><strong>D&amp;AD</strong><span>Pencil受賞作品</span></div></a><a class="source-card" href="https://www.oneclub.org/one-show/winners/" target="_blank"><div class="source-icon" style="background:rgba(245,200,66,.15)">🖊</div><div class="source-info"><strong>The One Show</strong><span>受賞ギャラリー</span></div></a><a class="source-card" href="https://www.contagious.com/" target="_blank"><div class="source-icon" style="background:rgba(255,60,60,.15)">🔥</div><div class="source-info"><strong>Contagious</strong><span>注目キャンペーン</span></div></a><a class="source-card" href="https://lbbonline.com/" target="_blank"><div class="source-icon" style="background:rgba(0,180,216,.15)">📡</div><div class="source-info"><strong>LBBOnline</strong><span>クリエイティブ速報</span></div></a><a class="source-card" href="https://www.adsoftheworld.com/" target="_blank"><div class="source-icon" style="background:rgba(155,93,229,.15)">🌐</div><div class="source-info"><strong>Ads of the World</strong><span>受賞作アーカイブ</span></div></a><a class="source-card" href="https://adage.com/section/creativity/27" target="_blank"><div class="source-icon" style="background:rgba(247,37,133,.15)">✨</div><div class="source-info"><strong>Ad Age Creativity</strong><span>注目キャンペーン</span></div></a></div></div></div><div class="toast" id="toast"></div><footer><p>🏆 海外広告賞・注目広告事例 ― 毎朝自動更新</p><div class="flinks"><a href="https://www.canneslions.com/" target="_blank">Cannes Lions</a><a href="https://clios.com/" target="_blank">Clio Awards</a><a href="https://www.dandad.org/" target="_blank">D&amp;AD</a><a href="https://www.contagious.com/" target="_blank">Contagious</a><a href="https://lbbonline.com/" target="_blank">LBBOnline</a><a href="https://www.adsoftheworld.com/" target="_blank">Ads of the World</a></div></footer><script id="campaign-data" type="application/json">{
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-05-31",
   "campaigns": [
     {
-      "id": "vi-guardian-beads",
-      "award": "Clio Awards 2026 / デザイン部門グランドクリオ",
-      "awardShort": "clio",
-      "year": "2026",
+      "id": "lucky-yatra",
+      "award": "Cannes Lions 2025 / PR部門グランプリ",
+      "awardShort": "cannes",
+      "year": "2025",
       "medal": "grand",
-      "medalLabel": "グランドクリオ（デザイン）",
-      "brand": "Vi (Vodafone Idea)",
-      "emoji": "📿",
-      "bg": "bg-jcd",
-      "title": "ガーディアン・ビーズ：聖地で迷子を防ぐ「祈りのブレスレット」",
-      "titleEn": "\"Guardian Beads\" — Vi (Vodafone Idea)",
-      "agency": "Ogilvy Mumbai",
+      "medalLabel": "グランプリ（PR）",
+      "brand": "Indian Railways (Central Railway)",
+      "emoji": "🚂",
+      "bg": "bg-nz",
+      "title": "ラッキー・ヤートラー：無賃乗車者を宝くじ当選者に変えた公共交通の逆転発想",
+      "titleEn": "\"Lucky Yatra\" — Indian Railways",
+      "agency": "FCB India, Mumbai",
       "country": "インド",
-      "summary": "数珠型に電話番号を刻んだ防水ブレスレットでマハー・クンブメーラの迷子事故に挑む",
-      "desc": "世界最大の宗教的集会マハー・クンブメーラには数千万人が集まり、毎日何千人もが行方不明になる。インド通信会社Vi（Vodafone Idea）が開発した「ガーディアン・ビーズ」は、ルドラクシャや聖なる数珠と同形状の防水ブレスレット。それぞれのビーズに参加者の電話番号を1桁ずつ刻み込み、文字の読めない高齢者や子どもでも着用できる設計。インドの宗教的シンボルを安全ツールに昇華したデザインが高く評価され、Clio Awards 2026デザイン部門グランドクリオを受賞。",
+      "summary": "乗車券購入を宝くじに変え、無賃乗車問題を文化的インサイトで解決",
+      "desc": "インドの中央鉄道が蔓延する無賃乗車問題に対し「ラッキー・ヤートラー（幸運の旅）」を実施。有効な乗車券を持つ乗客が毎日・毎週の現金賞金（日次1万ルピー、週次5万ルピー）を獲得できる抽選へ参加できる仕組みを構築。「乗車券購入」という行為を、インド文化に根付いた「運試し」に変換することで乗客の行動変容を促した。FCB Indiaが制作し、カンヌライオンズ2025でインド初のPR部門グランプリを受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Vi+Guardian+Beads+Ogilvy+Mumbai+Kumbh+Mela"
+          "url": "https://www.youtube.com/results?search_query=Lucky+Yatra+Indian+Railways+FCB+India+Cannes+2025"
         },
         {
-          "label": "🔗 Ogilvy公式",
+          "label": "🔗 FCB India公式",
           "cls": "lb-src",
-          "url": "https://www.ogilvy.com/work/guardian-beads"
+          "url": "https://www.fcb.com/news-ideas/lucky-yatra-wins-grand-prix-at-cannes-lions-2025/"
         },
         {
-          "label": "📰 Clio受賞",
+          "label": "📰 Cannes Lions受賞",
           "cls": "lb-off",
-          "url": "https://clios.com/winners-gallery/explore?vertical=Clio+Awards&season=2026"
+          "url": "https://adage.com/events-awards/cannes-lions/aa-indian-railways-pr/"
         }
       ]
     },
     {
       "id": "mountain-dew-darescore",
-      "award": "Spikes Asia 2026 / ブランド体験部門グランプリ",
+      "award": "Spikes Asia 2026 / ブランドエクスペリエンス部門グランプリ",
       "awardShort": "spikes",
       "year": "2026",
       "medal": "grand",
-      "medalLabel": "グランプリ（ブランド体験）",
-      "brand": "Mountain Dew (PepsiCo)",
-      "emoji": "🏔️",
+      "medalLabel": "グランプリ（ブランドエクスペリエンス）",
+      "brand": "Mountain Dew (PepsiCo India)",
+      "emoji": "⛰️",
       "bg": "bg-nz",
-      "title": "デアスコア：ヒマラヤの峰を「挑戦難度」でランキングするプラットフォーム",
+      "title": "デアスコア：ヒマラヤの難易度指数で「挑戦するDNA」を可視化",
       "titleEn": "\"Darescore\" — Mountain Dew",
-      "agency": "Leo Mumbai",
+      "agency": "Leo Mumbai (Leo Burnett)",
       "country": "インド",
-      "summary": "ヒマラヤ各峰の難易度を独自指数化、「挑戦せよ」というブランド哲学をリアル体験に",
-      "desc": "Mountain DewがヒマラヤのすべてのピークをGPS・気象・標高などの複数データから「挑戦難度スコア」として数値化したプラットフォーム「Darescore」を開発。ブランドのコアバリュー「恐れの先に勝利がある」をスローガンから実際の登山体験プラットフォームへと昇華。291作品の中から選ばれてSpikes Asia 2026ブランド体験＆アクティベーション部門グランプリを受賞。Leo Mumbaiのエージェンシー・オブ・ザ・イヤー受賞にも貢献した。",
+      "summary": "ヒマラヤ各峰の難易度・危険度データを指数化、ブランドの「挑戦」哲学を体現",
+      "desc": "Mountain Dewが「Dare（挑戦）」というブランドエトスを実体化するため、ヒマラヤの各峰を難易度・危険度・過酷さなどのデータで評価・ランク付けする独自指数「デアスコア」を開発。広告の枠を超えた実用ツールとして登山家や冒険家コミュニティで話題を呼んだ。Leo Mumbai制作。Spikes Asia 2026ブランドエクスペリエンス＆アクティベーション部門グランプリ受賞。同エージェンシーはAPAC エージェンシー・オブ・ザ・イヤーにも選出された。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Mountain+Dew+Darescore+Leo+Mumbai+Himalayan+2026"
+          "url": "https://www.youtube.com/results?search_query=Mountain+Dew+Darescore+Leo+Mumbai+Spikes+Asia+2026"
         },
         {
           "label": "🔗 Spikes Asia受賞",

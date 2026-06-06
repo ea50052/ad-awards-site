@@ -1,0 +1,414 @@
+{
+  "existing_ids": [
+    "lucky-yatra",
+    "canal-plus-tango",
+    "voice-2-diabetes",
+    "ok-go-love",
+    "paris2024-design",
+    "lvmh-paris2024",
+    "marina-prieto",
+    "sounds-right",
+    "adidas-backyard-legends",
+    "haaland-payback",
+    "the-ordinary-periodic-fable",
+    "voice-2-diabetes-klick",
+    "nike-so-win",
+    "night-fishing",
+    "shot-on-iphone",
+    "final-exam-change-the-ref",
+    "jacquemus-liline-ambassador",
+    "vi-guardian-beads",
+    "ee-yes-boys",
+    "tracking-bad-bunny",
+    "gulf-of-mexico-bar",
+    "mcdonalds-no-smiles",
+    "kitkat-commuter-camo",
+    "ee-yes-boys-worldcup",
+    "call-of-discounts",
+    "vaseline-verified",
+    "mountain-dew-darescore",
+    "shiseido-best-after-2055",
+    "coinbase-your-way-out",
+    "axe-smell-your-best",
+    "spreadbeats",
+    "assume-i-can",
+    "mastercard-lady-gaga-abracadabra",
+    "nike-winning",
+    "apple-flock",
+    "anthropic-a-time-and-a-place",
+    "three-words-axa",
+    "maori-roll-call",
+    "sting-f1-unofficial-sound",
+    "dove-real-beauty",
+    "nz-herpes"
+  ],
+  "current_main_last_updated": "2026-06-06",
+  "current_main_campaigns": [
+    {
+      "id": "ee-yes-boys-worldcup",
+      "award": "LBBOnline 注目キャンペーン 2026",
+      "awardShort": "notable",
+      "year": "2026",
+      "medal": "notable",
+      "medalLabel": "注目キャンペーン",
+      "brand": "EE (BT Group)",
+      "emoji": "⚽",
+      "bg": "bg-nz",
+      "title": "イエス・ボーイズ：W杯とフットボールで有害な男らしさに立ち向かう",
+      "titleEn": "\"Yes Boys\" — EE",
+      "agency": "Saatchi & Saatchi, London",
+      "country": "英国",
+      "summary": "11〜16歳の男子の42%が「男は弱さを見せるな」コンテンツに週数回接触",
+      "desc": "2026年W杯直前にEEがSaatchi & Saatchiと制作した60秒フィルム。フットボールコミュニティが有害なオンライン規範に対抗できる力を訴求。元イングランド代表テオ・ウォルコット起用。",
+      "links": [
+        {
+          "label": "▶ YouTubeで検索",
+          "cls": "lb-video",
+          "url": "https://www.youtube.com/results?search_query=EE+Yes+Boys+Saatchi+2026"
+        },
+        {
+          "label": "🔗 LBBOnline",
+          "cls": "lb-src",
+          "url": "https://lbbonline.com/news/EE-Yes-Boys"
+        },
+        {
+          "label": "📰 Campaign Live",
+          "cls": "lb-off",
+          "url": "https://www.campaignlive.co.uk/article/ee-spotlights-footballs-positive-influence-on-young-boys/1959607"
+        }
+      ]
+    },
+    {
+      "id": "voice-2-diabetes-klick",
+      "award": "Cannes Lions 2024 / イノベーション部門グランプリ",
+      "awardShort": "cannes",
+      "year": "2024",
+      "medal": "grand",
+      "medalLabel": "イノベーション・グランプリ",
+      "brand": "KVI Brave Fund",
+      "emoji": "🎙️",
+      "bg": "bg-dove",
+      "title": "ボイス・トゥ・ダイアベティス：6秒の声でⅡ型糖尿病を検知するAIツール",
+      "titleEn": "\"Voice 2 Diabetes\" — KVI Brave Fund",
+      "agency": "Klick Health, Toronto",
+      "country": "カナダ",
+      "summary": "スマホに6〜10秒話すだけ、AIが声の変化から糖尿病リスクを判定",
+      "desc": "スマートフォンに6〜10秒話すだけでAIが声のバイオマーカーを分析しⅡ型糖尿病リスクを検出。医療格差解消を目指す革新的ツール。Cannes Lions 2024イノベーション部門グランプリ受賞。",
+      "links": [
+        {
+          "label": "▶ YouTubeで検索",
+          "cls": "lb-video",
+          "url": "https://www.youtube.com/results?search_query=Voice+2+Diabetes+Klick+Health+Cannes"
+        },
+        {
+          "label": "🔗 Ads of the World",
+          "cls": "lb-src",
+          "url": "https://www.adsoftheworld.com/campaigns/voice-2-diabetes-case-study"
+        },
+        {
+          "label": "📰 D&AD受賞",
+          "cls": "lb-off",
+          "url": "https://www.dandad.org/awards/professional/2025/240498/voice-2-diabetes/"
+        }
+      ]
+    }
+  ],
+  "archive_batches": [
+    {
+      "date": "2026-06-05",
+      "label": "2026年6月5日 更新分",
+      "campaigns": [
+        {
+          "id": "mastercard-lady-gaga-abracadabra",
+          "award": "Grammy Awards 2026 / Priceless Experiences",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "バイラルヒット",
+          "brand": "Mastercard",
+          "emoji": "💳",
+          "bg": "bg-coc",
+          "title": "アブラカダブラ：グラミー賞でレディー・ガガのMVをCMとして世界初公開",
+          "titleEn": "\"Abracadabra\" — Mastercard × Lady Gaga",
+          "agency": "McCann New York",
+          "country": "米国",
+          "summary": "グラミー賞のCM枠でMVをサプライズ初公開、ファンを「共同制作者」に",
+          "desc": "Mastercardがグラミー賞の広告枠でLady Gagaの新曲「Abracadabra」のMVを世界初公開。TikTokダンス投稿から選ばれたファンをMVに出演させるPriceless Experiences施策に展開。ブランドのCM枠をカルチャー体験に転換した点が話題に。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Mastercard+Lady+Gaga+Abracadabra+Grammy+2026"
+            },
+            {
+              "label": "🔗 Mastercard公式",
+              "cls": "lb-src",
+              "url": "https://www.mastercard.com/us/en/news-and-trends/press/2025/february/mastercard-and-lady-gaga-team-up-to-debut-abracadabra-music-video-celebrating-fans-with-priceless-experiences.html"
+            },
+            {
+              "label": "📰 Marketing Dive",
+              "cls": "lb-off",
+              "url": "https://www.marketingdive.com/news/mastercard-lady-gaga-mayhem-music-culture-campaign/739016/"
+            }
+          ]
+        },
+        {
+          "id": "voice-2-diabetes",
+          "award": "Cannes Lions 2024 / イノベーション部門グランプリ",
+          "awardShort": "cannes",
+          "year": "2024",
+          "medal": "grand",
+          "medalLabel": "イノベーション・グランプリ",
+          "brand": "KVI Brave Fund",
+          "emoji": "🎙️",
+          "bg": "bg-dove",
+          "title": "ボイス・トゥ・ダイアベティス：6秒の声でⅡ型糖尿病を検知するAIツール",
+          "titleEn": "\"Voice 2 Diabetes\" — KVI Brave Fund",
+          "agency": "Klick Health, Toronto",
+          "country": "カナダ",
+          "summary": "スマホに6〜10秒話すだけ、AIが声の微細な変化から糖尿病リスクを判定",
+          "desc": "スマートフォンに6〜10秒話すだけでAIが声のバイオマーカーを分析しⅡ型糖尿病リスクを検出。血液検査が受けられない地域での医療格差解消を目指す。One Show 27冠、Clio Grand Prix、Cannes Lions 2024イノベーション部門グランプリ受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Voice+2+Diabetes+Klick+Health+KVI+Brave+Fund+Cannes"
+            },
+            {
+              "label": "🔗 Ads of the World",
+              "cls": "lb-src",
+              "url": "https://www.adsoftheworld.com/campaigns/voice-2-diabetes-case-study"
+            },
+            {
+              "label": "📰 D&AD受賞",
+              "cls": "lb-off",
+              "url": "https://www.dandad.org/awards/professional/2025/240498/voice-2-diabetes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "label": "2026年6月3日 更新分",
+      "campaigns": [
+        {
+          "id": "ee-yes-boys",
+          "award": "LBBOnline 注目キャンペーン 2026",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "注目キャンペーン",
+          "brand": "EE (BT Group)",
+          "emoji": "⚽",
+          "bg": "bg-nz",
+          "title": "イエス・ボーイズ：W杯とフットボールコミュニティで有害な男らしさに立ち向かう",
+          "titleEn": "\"Yes Boys\" — EE",
+          "agency": "Saatchi & Saatchi, London",
+          "country": "英国",
+          "summary": "11〜16歳の男子の42%が「男は弱さを見せるな」コンテンツに週数回接触",
+          "desc": "2026年W杯直前にEEがSaatchi & Saatchiと制作した60秒フィルム。フットボールコミュニティが有害なオンラインの男らしさ規範に対抗できる力を訴求。元イングランド代表テオ・ウォルコット起用。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=EE+Yes+Boys+Saatchi+Saatchi+World+Cup+2026"
+            },
+            {
+              "label": "🔗 LBBOnline",
+              "cls": "lb-src",
+              "url": "https://lbbonline.com/news/EE-Yes-Boys"
+            },
+            {
+              "label": "📰 Campaign Live",
+              "cls": "lb-off",
+              "url": "https://www.campaignlive.co.uk/article/ee-spotlights-footballs-positive-influence-on-young-boys/1959607"
+            }
+          ]
+        },
+        {
+          "id": "apple-flock",
+          "award": "AICP Show 2026 / Advertising Excellence",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "Advertising Excellence",
+          "brand": "Apple",
+          "emoji": "🐦",
+          "bg": "bg-apple",
+          "title": "フロック：群れを成す鳥たちがiPhoneの可能性を体現する",
+          "titleEn": "\"Flock\" — Apple",
+          "agency": "TBWA\\Media Arts Lab / SMUGGLER",
+          "country": "米国",
+          "summary": "鳥の群れ（マーマレーション）でiPhoneの創造性を視覚的に表現",
+          "desc": "Ivan Zachariáš監督・SMUGGLER制作によるAppleのブランドフィルム。マーマレーションを映像化しiPhoneの表現の可能性を体現。AICP Show 2026で4冠達成。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Apple+Flock+iPhone+commercial+2026+Ivan+Zacharias"
+            },
+            {
+              "label": "🔗 AICP Awards",
+              "cls": "lb-src",
+              "url": "https://aicp.com/aicp-awards"
+            },
+            {
+              "label": "📰 LBBOnline",
+              "cls": "lb-off",
+              "url": "https://lbbonline.com/news/AICP-Announces-2026-Awards-Shortlists"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "label": "2026年6月2日 更新分",
+      "campaigns": [
+        {
+          "id": "anthropic-a-time-and-a-place",
+          "award": "ANDY Awards 2026 / Best in Show GRANDY",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "Best in Show GRANDY",
+          "brand": "Anthropic",
+          "emoji": "🤖",
+          "bg": "bg-coc",
+          "title": "A Time And A Place：AIがあるべき場所を問うスーパーボウルの逆説広告",
+          "titleEn": "\"A Time And A Place\" — Anthropic",
+          "agency": "Mother London",
+          "country": "英国",
+          "summary": "スーパーボウルでAI企業が「広告すべきでない場所がある」と主張する逆説",
+          "desc": "AnthropicがMother Londonと制作したダーク・コメディCM。AIサービスを宣伝する場で「AIが介入すべきでない空間がある」と逆説的に訴求。ANDY Awards 2026 Best in Show GRANDY受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Anthropic+A+Time+And+A+Place+Mother+London+Super+Bowl+2026"
+            },
+            {
+              "label": "🔗 LBBOnline",
+              "cls": "lb-src",
+              "url": "https://lbbonline.com/news/ANDY-Awards-2026-Winners"
+            },
+            {
+              "label": "📰 Roastbrief",
+              "cls": "lb-off",
+              "url": "https://roastbrief.us/international-andy-awards-announces-2026-winners/"
+            }
+          ]
+        },
+        {
+          "id": "canal-plus-tango",
+          "award": "Golden Award of Montreux 2026 / Ad of the Year",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "Ad of the Year",
+          "brand": "CANAL+",
+          "emoji": "🎬",
+          "bg": "bg-paris",
+          "title": "タンゴ：映画と放送局の絆を官能的なダンスで表現した60秒の傑作",
+          "titleEn": "\"Tango\" — CANAL+",
+          "agency": "BETC Paris",
+          "country": "フランス",
+          "summary": "紙が舞う中で踊る男女がCANAL+と映画の共犯関係を体現",
+          "desc": "BETC Parisが制作した60秒フィルム。紙の波が渦巻くスタジオでのタンゴがCANAL+と映画作家の創造的パートナーシップを象徴。Golden Award of Montreux 2026 Ad of the Year受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Canal+Plus+Tango+BETC+Paris+2026"
+            },
+            {
+              "label": "🔗 Creative Review",
+              "cls": "lb-src",
+              "url": "https://www.creativereview.co.uk/betc-canal-tango-ad/"
+            },
+            {
+              "label": "📰 shots誌",
+              "cls": "lb-off",
+              "url": "https://shots.net/news/view/it-takes-two-to-tango-the-making-of-canal-and-betcs-new-campaign"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "label": "2026年6月1日 更新分",
+      "campaigns": [
+        {
+          "id": "vi-guardian-beads",
+          "award": "Clio Awards 2026 / デザイン部門グランドクリオ",
+          "awardShort": "clio",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランドクリオ（デザイン）",
+          "brand": "Vi (Vodafone Idea)",
+          "emoji": "📿",
+          "bg": "bg-dove",
+          "title": "ガーディアン・ビーズ：世界最大の宗教集会で迷子を救うルドラクシャ数珠",
+          "titleEn": "\"Guardian Beads\" — Vi (Vodafone Idea)",
+          "agency": "Ogilvy Mumbai",
+          "country": "インド",
+          "summary": "数珠に電話番号を刻む文化的発明、マハ・クンバで迷子を救う",
+          "desc": "マハ・クンバ・メーラでVodafone Ideaがルドラクシャ数珠の各ビーズに携帯番号を刻んだ防水ブレスレットを開発。Clio Awards 2026デザイン部門グランドクリオ受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Vi+Vodafone+Guardian+Beads+Ogilvy+Mumbai+Kumbh+Mela"
+            },
+            {
+              "label": "🔗 Ogilvy公式",
+              "cls": "lb-src",
+              "url": "https://www.ogilvy.com/work/guardian-beads"
+            },
+            {
+              "label": "📰 Clio受賞",
+              "cls": "lb-off",
+              "url": "https://clios.com/press-article/grand-clio-winners-celebrated-for-creativity-at-67th-awards-ceremony/"
+            }
+          ]
+        },
+        {
+          "id": "sting-f1-unofficial-sound",
+          "award": "Clio Awards 2026 / オーディオ部門グランドクリオ",
+          "awardShort": "clio",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランドクリオ（オーディオ）",
+          "brand": "Sting Energy (PepsiCo)",
+          "emoji": "🏎️",
+          "bg": "bg-coc",
+          "title": "F1の非公式公式サウンド：エンジン音をブランドの音に変えた聴覚ハック",
+          "titleEn": "\"The Unofficial Official Sound of F1\" — Sting Energy",
+          "agency": "Leo India, Mumbai",
+          "country": "インド",
+          "summary": "F1エンジン音がStingに聞こえる？聴覚バイアスを使ったソニックブランディング革命",
+          "desc": "F1公式パートナーながらロゴ露出ゼロのSting Energyがエンジン音とブランドの聴覚的類似を拡散。Clio Awards 2026オーディオ部門グランドクリオ受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Sting+Energy+Unofficial+Official+Sound+F1+Leo+India"
+            },
+            {
+              "label": "🔗 Ads of the World",
+              "cls": "lb-src",
+              "url": "https://www.adsoftheworld.com/campaigns/the-unofficial-official-sound-of-f1"
+            },
+            {
+              "label": "📰 Clio受賞",
+              "cls": "lb-off",
+              "url": "https://clios.com/winners-gallery/details/221034"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

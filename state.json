@@ -1,119 +1,195 @@
 {
   "existing_ids": [
-    "lucky-yatra",
+    "vaseline-verified",
+    "whisper-project-early-periods",
+    "paris2024-design",
+    "spreadbeats",
+    "ok-go-love",
+    "tracking-bad-bunny",
     "canal-plus-tango",
     "voice-2-diabetes",
-    "ok-go-love",
-    "paris2024-design",
-    "lvmh-paris2024",
-    "marina-prieto",
-    "sounds-right",
-    "adidas-backyard-legends",
-    "haaland-payback",
-    "the-ordinary-periodic-fable",
-    "voice-2-diabetes-klick",
-    "nike-so-win",
-    "night-fishing",
-    "shot-on-iphone",
-    "final-exam-change-the-ref",
-    "jacquemus-liline-ambassador",
-    "vi-guardian-beads",
-    "ee-yes-boys",
-    "tracking-bad-bunny",
-    "gulf-of-mexico-bar",
     "mcdonalds-no-smiles",
-    "kitkat-commuter-camo",
-    "ee-yes-boys-worldcup",
-    "call-of-discounts",
-    "vaseline-verified",
-    "mountain-dew-darescore",
     "shiseido-best-after-2055",
-    "coinbase-your-way-out",
+    "night-fishing",
     "axe-smell-your-best",
-    "spreadbeats",
-    "assume-i-can",
-    "mastercard-lady-gaga-abracadabra",
+    "coinbase-your-way-out",
+    "ee-yes-boys-worldcup",
+    "the-ordinary-periodic-fable",
+    "sting-f1-unofficial-sound",
+    "adidas-backyard-legends",
+    "shot-on-iphone",
+    "voice-2-diabetes-klick",
     "nike-winning",
-    "apple-flock",
-    "anthropic-a-time-and-a-place",
+    "kitkat-commuter-camo",
+    "marina-prieto",
+    "haaland-payback",
+    "gulf-of-mexico-bar",
+    "jacquemus-liline-ambassador",
+    "ee-yes-boys",
+    "vi-guardian-beads",
+    "call-of-discounts",
     "three-words-axa",
     "maori-roll-call",
-    "sting-f1-unofficial-sound",
+    "assume-i-can",
+    "mountain-dew-darescore",
     "dove-real-beauty",
-    "nz-herpes"
+    "caption-with-intention",
+    "lucky-yatra",
+    "apple-flock",
+    "mastercard-lady-gaga-abracadabra",
+    "nike-so-win",
+    "sounds-right",
+    "final-exam-change-the-ref",
+    "nz-herpes",
+    "anthropic-a-time-and-a-place",
+    "lvmh-paris2024"
   ],
-  "current_main_last_updated": "2026-06-06",
+  "current_main_last_updated": "2026-06-07",
   "current_main_campaigns": [
     {
-      "id": "ee-yes-boys-worldcup",
-      "award": "LBBOnline 注目キャンペーン 2026",
-      "awardShort": "notable",
+      "id": "caption-with-intention",
+      "award": "D&AD 2026 / Yellow Pencil + Academy Award of Merit",
+      "awardShort": "dad",
       "year": "2026",
       "medal": "notable",
-      "medalLabel": "注目キャンペーン",
-      "brand": "EE (BT Group)",
-      "emoji": "⚽",
-      "bg": "bg-nz",
-      "title": "イエス・ボーイズ：W杯とフットボールで有害な男らしさに立ち向かう",
-      "titleEn": "\"Yes Boys\" — EE",
-      "agency": "Saatchi & Saatchi, London",
-      "country": "英国",
-      "summary": "11〜16歳の男子の42%が「男は弱さを見せるな」コンテンツに週数回接触",
-      "desc": "2026年W杯直前にEEがSaatchi & Saatchiと制作した60秒フィルム。フットボールコミュニティが有害なオンライン規範に対抗できる力を訴求。元イングランド代表テオ・ウォルコット起用。",
+      "medalLabel": "イエロー・ペンシル",
+      "brand": "Chicago Hearing Society / The Academy",
+      "emoji": "💬",
+      "bg": "bg-dove",
+      "title": "キャプション・ウィズ・インテンション：字幕をストーリーテリングに変えるアクセシビリティ革命",
+      "titleEn": "\"Caption with Intention\" — Chicago Hearing Society × The Academy",
+      "agency": "FCB Chicago",
+      "country": "米国",
+      "summary": "文字色・同期・可変フォントで字幕を感情表現の媒体に昇華",
+      "desc": "1970年代から変わっていないクローズド・キャプションを再発明。文字色でキャラクターを識別、セリフと精密に同期、音量・ピッチを可変フォントで表現するオープンソースのデザインシステム。D&AD 2026イエロー・ペンシル受賞、映画芸術科学アカデミーからは功績賞（オスカー像）を授与。",
       "links": [
         {
-          "label": "▶ YouTubeで検索",
+          "label": "▶ YouTubeで見る",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=EE+Yes+Boys+Saatchi+2026"
+          "url": "https://www.youtube.com/watch?v=uEieMdqAcsQ"
         },
         {
-          "label": "🔗 LBBOnline",
+          "label": "🔗 D&AD受賞",
           "cls": "lb-src",
-          "url": "https://lbbonline.com/news/EE-Yes-Boys"
+          "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
         },
         {
-          "label": "📰 Campaign Live",
+          "label": "📰 LBBOnline",
           "cls": "lb-off",
-          "url": "https://www.campaignlive.co.uk/article/ee-spotlights-footballs-positive-influence-on-young-boys/1959607"
+          "url": "https://lbbonline.com/news/behind-the-oscar-winning-caption-revolution"
         }
       ]
     },
     {
-      "id": "voice-2-diabetes-klick",
-      "award": "Cannes Lions 2024 / イノベーション部門グランプリ",
-      "awardShort": "cannes",
-      "year": "2024",
+      "id": "whisper-project-early-periods",
+      "award": "Spikes Asia 2026 / Glass部門グランプリ",
+      "awardShort": "spikes",
+      "year": "2026",
       "medal": "grand",
-      "medalLabel": "イノベーション・グランプリ",
-      "brand": "KVI Brave Fund",
-      "emoji": "🎙️",
-      "bg": "bg-dove",
-      "title": "ボイス・トゥ・ダイアベティス：6秒の声でⅡ型糖尿病を検知するAIツール",
-      "titleEn": "\"Voice 2 Diabetes\" — KVI Brave Fund",
-      "agency": "Klick Health, Toronto",
-      "country": "カナダ",
-      "summary": "スマホに6〜10秒話すだけ、AIが声の変化から糖尿病リスクを判定",
-      "desc": "スマートフォンに6〜10秒話すだけでAIが声のバイオマーカーを分析しⅡ型糖尿病リスクを検出。医療格差解消を目指す革新的ツール。Cannes Lions 2024イノベーション部門グランプリ受賞。",
+      "medalLabel": "グランプリ（Glass）",
+      "brand": "Whisper (P&G)",
+      "emoji": "🌸",
+      "bg": "bg-nz",
+      "title": "プロジェクト・アーリー・ピリオズ：早期初潮の烙印から少女を学校に留める社会変革",
+      "titleEn": "\"Project Early Periods\" — Whisper",
+      "agency": "Leo Burnett India, Mumbai",
+      "country": "インド",
+      "summary": "農村部の少女の早期初潮を学校中退から救う生理教育の革命",
+      "desc": "インド農村部では初潮を迎えた少女が学校を中退する社会問題が深刻。Whisper（P&G）がLeo Burnett Indiaと共に、早期初潮に纏わる烙印を除去し少女を教育の場に留める意識変革キャンペーンを展開。Spikes Asia 2026 Glass部門グランプリ受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Voice+2+Diabetes+Klick+Health+Cannes"
+          "url": "https://www.youtube.com/results?search_query=Whisper+Project+Early+Periods+Leo+Burnett+India"
         },
         {
-          "label": "🔗 Ads of the World",
+          "label": "🔗 Spikes Asia",
           "cls": "lb-src",
-          "url": "https://www.adsoftheworld.com/campaigns/voice-2-diabetes-case-study"
+          "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
         },
         {
-          "label": "📰 D&AD受賞",
+          "label": "📰 Campaign Asia",
           "cls": "lb-off",
-          "url": "https://www.dandad.org/awards/professional/2025/240498/voice-2-diabetes/"
+          "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-06",
+      "label": "2026年6月6日 更新分",
+      "campaigns": [
+        {
+          "id": "ee-yes-boys-worldcup",
+          "award": "LBBOnline 注目キャンペーン 2026",
+          "awardShort": "notable",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "注目キャンペーン",
+          "brand": "EE (BT Group)",
+          "emoji": "⚽",
+          "bg": "bg-nz",
+          "title": "イエス・ボーイズ：W杯とフットボールで有害な男らしさに立ち向かう",
+          "titleEn": "\"Yes Boys\" — EE",
+          "agency": "Saatchi & Saatchi, London",
+          "country": "英国",
+          "summary": "11〜16歳の男子の42%が「男は弱さを見せるな」コンテンツに週数回接触",
+          "desc": "2026年W杯直前にEEがSaatchi & Saatchiと制作した60秒フィルム。フットボールコミュニティが有害なオンライン規範に対抗できる力を訴求。元イングランド代表テオ・ウォルコット起用。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=EE+Yes+Boys+Saatchi+2026"
+            },
+            {
+              "label": "🔗 LBBOnline",
+              "cls": "lb-src",
+              "url": "https://lbbonline.com/news/EE-Yes-Boys"
+            },
+            {
+              "label": "📰 Campaign Live",
+              "cls": "lb-off",
+              "url": "https://www.campaignlive.co.uk/article/ee-spotlights-footballs-positive-influence-on-young-boys/1959607"
+            }
+          ]
+        },
+        {
+          "id": "voice-2-diabetes-klick",
+          "award": "Cannes Lions 2024 / イノベーション部門グランプリ",
+          "awardShort": "cannes",
+          "year": "2024",
+          "medal": "grand",
+          "medalLabel": "イノベーション・グランプリ",
+          "brand": "KVI Brave Fund",
+          "emoji": "🎙️",
+          "bg": "bg-dove",
+          "title": "ボイス・トゥ・ダイアベティス：6秒の声でⅡ型糖尿病を検知するAIツール",
+          "titleEn": "\"Voice 2 Diabetes\" — KVI Brave Fund",
+          "agency": "Klick Health, Toronto",
+          "country": "カナダ",
+          "summary": "スマホに6〜10秒話すだけ、AIが声の変化から糖尿病リスクを判定",
+          "desc": "スマートフォンに6〜10秒話すだけでAIが声のバイオマーカーを分析しⅡ型糖尿病リスクを検出。医療格差解消を目指す革新的ツール。Cannes Lions 2024イノベーション部門グランプリ受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Voice+2+Diabetes+Klick+Health+Cannes"
+            },
+            {
+              "label": "🔗 Ads of the World",
+              "cls": "lb-src",
+              "url": "https://www.adsoftheworld.com/campaigns/voice-2-diabetes-case-study"
+            },
+            {
+              "label": "📰 D&AD受賞",
+              "cls": "lb-off",
+              "url": "https://www.dandad.org/awards/professional/2025/240498/voice-2-diabetes/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "label": "2026年6月5日 更新分",

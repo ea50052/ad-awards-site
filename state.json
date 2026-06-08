@@ -1,121 +1,197 @@
 {
   "existing_ids": [
-    "vaseline-verified",
-    "whisper-project-early-periods",
-    "paris2024-design",
-    "spreadbeats",
-    "ok-go-love",
-    "tracking-bad-bunny",
-    "canal-plus-tango",
-    "voice-2-diabetes",
-    "mcdonalds-no-smiles",
-    "shiseido-best-after-2055",
-    "night-fishing",
     "axe-smell-your-best",
-    "coinbase-your-way-out",
-    "ee-yes-boys-worldcup",
-    "the-ordinary-periodic-fable",
-    "sting-f1-unofficial-sound",
-    "adidas-backyard-legends",
-    "shot-on-iphone",
-    "voice-2-diabetes-klick",
-    "nike-winning",
-    "kitkat-commuter-camo",
-    "marina-prieto",
-    "haaland-payback",
-    "gulf-of-mexico-bar",
-    "jacquemus-liline-ambassador",
-    "ee-yes-boys",
-    "vi-guardian-beads",
-    "call-of-discounts",
-    "three-words-axa",
-    "maori-roll-call",
-    "assume-i-can",
-    "mountain-dew-darescore",
-    "dove-real-beauty",
-    "caption-with-intention",
-    "lucky-yatra",
-    "apple-flock",
-    "mastercard-lady-gaga-abracadabra",
-    "nike-so-win",
-    "sounds-right",
-    "final-exam-change-the-ref",
     "nz-herpes",
+    "vaseline-verified",
+    "haaland-payback",
+    "adidas-backyard-legends",
+    "ee-yes-boys",
+    "call-of-discounts",
+    "mountain-dew-darescore",
+    "apple-flock",
+    "paris2024-design",
     "anthropic-a-time-and-a-place",
-    "lvmh-paris2024"
+    "voice-2-diabetes-klick",
+    "shiseido-best-after-2055",
+    "dove-real-beauty",
+    "ee-yes-boys-worldcup",
+    "gulf-of-mexico-bar",
+    "maori-roll-call",
+    "voice-2-diabetes",
+    "the-ordinary-periodic-fable",
+    "canal-plus-tango",
+    "three-words-axa",
+    "nike-so-win",
+    "caption-with-intention",
+    "kitkat-commuter-camo",
+    "final-exam-change-the-ref",
+    "columbia-expedition-impossible",
+    "nike-winning",
+    "shot-on-iphone",
+    "assume-i-can",
+    "mcdonalds-no-smiles",
+    "night-fishing",
+    "lvmh-paris2024",
+    "ba-reflections",
+    "marina-prieto",
+    "vi-guardian-beads",
+    "jacquemus-liline-ambassador",
+    "sting-f1-unofficial-sound",
+    "ok-go-love",
+    "lucky-yatra",
+    "mastercard-lady-gaga-abracadabra",
+    "tracking-bad-bunny",
+    "whisper-project-early-periods",
+    "spreadbeats",
+    "sounds-right",
+    "coinbase-your-way-out"
   ],
-  "current_main_last_updated": "2026-06-07",
+  "current_main_last_updated": "2026-06-08",
   "current_main_campaigns": [
     {
-      "id": "caption-with-intention",
-      "award": "D&AD 2026 / Yellow Pencil + Academy Award of Merit",
-      "awardShort": "dad",
-      "year": "2026",
-      "medal": "notable",
-      "medalLabel": "イエロー・ペンシル",
-      "brand": "Chicago Hearing Society / The Academy",
-      "emoji": "💬",
-      "bg": "bg-dove",
-      "title": "キャプション・ウィズ・インテンション：字幕をストーリーテリングに変えるアクセシビリティ革命",
-      "titleEn": "\"Caption with Intention\" — Chicago Hearing Society × The Academy",
-      "agency": "FCB Chicago",
-      "country": "米国",
-      "summary": "文字色・同期・可変フォントで字幕を感情表現の媒体に昇華",
-      "desc": "1970年代から変わっていないクローズド・キャプションを再発明。文字色でキャラクターを識別、セリフと精密に同期、音量・ピッチを可変フォントで表現するオープンソースのデザインシステム。D&AD 2026イエロー・ペンシル受賞、映画芸術科学アカデミーからは功績賞（オスカー像）を授与。",
-      "links": [
-        {
-          "label": "▶ YouTubeで見る",
-          "cls": "lb-video",
-          "url": "https://www.youtube.com/watch?v=uEieMdqAcsQ"
-        },
-        {
-          "label": "🔗 D&AD受賞",
-          "cls": "lb-src",
-          "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
-        },
-        {
-          "label": "📰 LBBOnline",
-          "cls": "lb-off",
-          "url": "https://lbbonline.com/news/behind-the-oscar-winning-caption-revolution"
-        }
-      ]
-    },
-    {
-      "id": "whisper-project-early-periods",
-      "award": "Spikes Asia 2026 / Glass部門グランプリ",
-      "awardShort": "spikes",
+      "id": "ba-reflections",
+      "award": "The One Show 2026",
+      "awardShort": "oneshow",
       "year": "2026",
       "medal": "grand",
-      "medalLabel": "グランプリ（Glass）",
-      "brand": "Whisper (P&G)",
-      "emoji": "🌸",
-      "bg": "bg-nz",
-      "title": "プロジェクト・アーリー・ピリオズ：早期初潮の烙印から少女を学校に留める社会変革",
-      "titleEn": "\"Project Early Periods\" — Whisper",
-      "agency": "Leo Burnett India, Mumbai",
-      "country": "インド",
-      "summary": "農村部の少女の早期初潮を学校中退から救う生理教育の革命",
-      "desc": "インド農村部では初潮を迎えた少女が学校を中退する社会問題が深刻。Whisper（P&G）がLeo Burnett Indiaと共に、早期初潮に纏わる烙印を除去し少女を教育の場に留める意識変革キャンペーンを展開。Spikes Asia 2026 Glass部門グランプリ受賞。",
+      "medalLabel": "ゴールドペンシル×7",
+      "brand": "British Airways",
+      "emoji": "✈️",
+      "bg": "bg-dove",
+      "title": "窓の外に映るBAロゴ",
+      "titleEn": "\"Reflections\" — British Airways",
+      "agency": "Uncommon Creative Studio",
+      "country": "イギリス",
+      "summary": "エンジンに映る世界の旅の美",
+      "desc": "4人の英国人写真家が3大陸を旅し、機内の窓から捉えた絶景にエンジンのBAロゴが映り込む。コピーなし、ロゴのみで語るアウトドア広告。One Show 2026でゴールドペンシル7冠・デザイン部門最優秀賞を獲得。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Whisper+Project+Early+Periods+Leo+Burnett+India"
+          "url": "https://www.youtube.com/results?search_query=British+Airways+Reflections+campaign+Uncommon"
         },
         {
-          "label": "🔗 Spikes Asia",
+          "label": "🔗 LBBOnline記事",
           "cls": "lb-src",
-          "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+          "url": "https://lbbonline.com/news/British-Airways-Reflections-Air-Travel"
         },
         {
-          "label": "📰 Campaign Asia",
+          "label": "📰 Creative Review",
           "cls": "lb-off",
-          "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+          "url": "https://www.creativereview.co.uk/british-airways-reflections-uncommon-advertising/"
+        }
+      ]
+    },
+    {
+      "id": "columbia-expedition-impossible",
+      "award": "Clio Awards 2026",
+      "awardShort": "clio",
+      "year": "2026",
+      "medal": "grand",
+      "medalLabel": "グランド・クリオ",
+      "brand": "Columbia Sportswear",
+      "emoji": "🌍",
+      "bg": "bg-nz",
+      "title": "地球の端を見つけたら会社をあげる",
+      "titleEn": "\"Expedition Impossible\" — Columbia Sportswear",
+      "agency": "adam&eve\\TBWA",
+      "country": "アメリカ",
+      "summary": "地球平面説信者への大挑戦",
+      "desc": "CEOがNYタイムズに公開状を掲載し、地球が平面だと証明した人物にコロンビア社を丸ごと贈ると宣言。アウトドアブランドとして「どこまでも行ける装備」を証明しつつ、陰謀論コミュニティへ切り込む大胆な統合キャンペーン。",
+      "links": [
+        {
+          "label": "▶ YouTubeで検索",
+          "cls": "lb-video",
+          "url": "https://www.youtube.com/results?search_query=Columbia+Sportswear+Expedition+Impossible+flat+earth"
+        },
+        {
+          "label": "🔗 Clio受賞ページ",
+          "cls": "lb-src",
+          "url": "https://clios.com/winners-gallery/details/224592"
+        },
+        {
+          "label": "📰 Contagious記事",
+          "cls": "lb-off",
+          "url": "https://www.contagious.com/en/article/news-and-views/expedition-impossible-c1057dab8b5545bf85668faa477fe71b"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-07",
+      "label": "2026年6月7日 更新分",
+      "campaigns": [
+        {
+          "id": "caption-with-intention",
+          "award": "D&AD 2026 / Yellow Pencil + Academy Award of Merit",
+          "awardShort": "dad",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "イエロー・ペンシル",
+          "brand": "Chicago Hearing Society / The Academy",
+          "emoji": "💬",
+          "bg": "bg-dove",
+          "title": "キャプション・ウィズ・インテンション：字幕をストーリーテリングに変えるアクセシビリティ革命",
+          "titleEn": "\"Caption with Intention\" — Chicago Hearing Society × The Academy",
+          "agency": "FCB Chicago",
+          "country": "米国",
+          "summary": "文字色・同期・可変フォントで字幕を感情表現の媒体に昇華",
+          "desc": "1970年代から変わっていないクローズド・キャプションを再発明。文字色でキャラクターを識別、セリフと精密に同期、音量・ピッチを可変フォントで表現するオープンソースのデザインシステム。D&AD 2026イエロー・ペンシル受賞、映画芸術科学アカデミーからは功績賞（オスカー像）を授与。",
+          "links": [
+            {
+              "label": "▶ YouTubeで見る",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/watch?v=uEieMdqAcsQ"
+            },
+            {
+              "label": "🔗 D&AD受賞",
+              "cls": "lb-src",
+              "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
+            },
+            {
+              "label": "📰 LBBOnline",
+              "cls": "lb-off",
+              "url": "https://lbbonline.com/news/behind-the-oscar-winning-caption-revolution"
+            }
+          ]
+        },
+        {
+          "id": "whisper-project-early-periods",
+          "award": "Spikes Asia 2026 / Glass部門グランプリ",
+          "awardShort": "spikes",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランプリ（Glass）",
+          "brand": "Whisper (P&G)",
+          "emoji": "🌸",
+          "bg": "bg-nz",
+          "title": "プロジェクト・アーリー・ピリオズ：早期初潮の烙印から少女を学校に留める社会変革",
+          "titleEn": "\"Project Early Periods\" — Whisper",
+          "agency": "Leo Burnett India, Mumbai",
+          "country": "インド",
+          "summary": "農村部の少女の早期初潮を学校中退から救う生理教育の革命",
+          "desc": "インド農村部では初潮を迎えた少女が学校を中退する社会問題が深刻。Whisper（P&G）がLeo Burnett Indiaと共に、早期初潮に纏わる烙印を除去し少女を教育の場に留める意識変革キャンペーンを展開。Spikes Asia 2026 Glass部門グランプリ受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Whisper+Project+Early+Periods+Leo+Burnett+India"
+            },
+            {
+              "label": "🔗 Spikes Asia",
+              "cls": "lb-src",
+              "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+            },
+            {
+              "label": "📰 Campaign Asia",
+              "cls": "lb-off",
+              "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "label": "2026年6月6日 更新分",

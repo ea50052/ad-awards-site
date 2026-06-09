@@ -1,125 +1,201 @@
 {
   "existing_ids": [
-    "canal-plus-tango",
-    "paris2024-design",
-    "lvmh-paris2024",
-    "mastercard-lady-gaga-abracadabra",
-    "columbia-expedition-impossible",
-    "ba-reflections",
-    "ikea-u-up",
-    "nz-herpes",
-    "call-of-discounts",
-    "dove-real-beauty",
-    "three-words-axa",
-    "ok-go-love",
-    "night-fishing",
-    "marina-prieto",
-    "haaland-payback",
-    "nike-winning",
-    "assume-i-can",
-    "mcdonalds-no-smiles",
-    "jacquemus-liline-ambassador",
     "whisper-project-early-periods",
-    "maori-roll-call",
-    "voice-2-diabetes",
-    "spreadbeats",
-    "ee-yes-boys",
     "kitkat-commuter-camo",
-    "adidas-backyard-legends",
-    "vi-guardian-beads",
-    "sting-f1-unofficial-sound",
-    "coinbase-your-way-out",
-    "vaseline-verified",
-    "caption-with-intention",
-    "shiseido-best-after-2055",
-    "shot-on-iphone",
-    "final-exam-change-the-ref",
-    "nike-so-win",
-    "heineken-pub-succession",
-    "apple-flock",
-    "voice-2-diabetes-klick",
+    "call-of-discounts",
     "gulf-of-mexico-bar",
-    "anthropic-a-time-and-a-place",
-    "lucky-yatra",
-    "sounds-right",
-    "ee-yes-boys-worldcup",
-    "tracking-bad-bunny",
-    "mountain-dew-darescore",
+    "marina-prieto",
+    "voice-2-diabetes",
+    "dove-real-beauty",
+    "vi-guardian-beads",
+    "voice-2-diabetes-klick",
+    "apple-flock",
+    "nike-winning",
+    "night-fishing",
+    "maori-roll-call",
+    "mastercard-lady-gaga-abracadabra",
+    "ee-yes-boys",
+    "shiseido-best-after-2055",
+    "mcdonalds-no-smiles",
+    "three-words-axa",
+    "nz-herpes",
+    "vaseline-verified",
+    "lvmh-paris2024",
+    "coinbase-your-way-out",
+    "haaland-payback",
+    "nike-so-win",
+    "spreadbeats",
+    "columbia-expedition-impossible",
     "axe-smell-your-best",
-    "the-ordinary-periodic-fable"
+    "sting-f1-unofficial-sound",
+    "ikea-u-up",
+    "caption-with-intention",
+    "popemobile-for-gaza",
+    "final-exam-change-the-ref",
+    "ee-yes-boys-worldcup",
+    "canal-plus-tango",
+    "assume-i-can",
+    "sounds-right",
+    "ba-reflections",
+    "mountain-dew-darescore",
+    "lucky-yatra",
+    "jacquemus-liline-ambassador",
+    "anthropic-a-time-and-a-place",
+    "shot-on-iphone",
+    "the-ordinary-periodic-fable",
+    "i-wool-survive-grindr",
+    "paris2024-design",
+    "ok-go-love",
+    "adidas-backyard-legends",
+    "tracking-bad-bunny",
+    "heineken-pub-succession"
   ],
   "current_main_last_updated": "2026-06-09",
   "current_main_campaigns": [
     {
-      "id": "ikea-u-up",
-      "award": "The One Show 2026",
-      "awardShort": "oneshow",
+      "id": "popemobile-for-gaza",
+      "award": "D&AD 2026 / Yellow Pencil",
+      "awardShort": "dad",
       "year": "2026",
       "medal": "notable",
-      "medalLabel": "Gold Pencil",
-      "brand": "IKEA",
-      "emoji": "🛏️",
-      "bg": "bg-jcd",
-      "title": "深夜の「起きてる？」でマットレスを売る",
-      "titleEn": "\"U Up?\" — IKEA Canada",
-      "agency": "Rethink",
-      "country": "カナダ",
-      "summary": "バレンタイン深夜DMで売上36%増",
-      "desc": "バレンタインデーの深夜11時〜翌5時、IKEAがカナダ人のSNSに「u up?（起きてる？）」とDMを送信。返信した人にはマットレスの割引クーポンを進呈し、一部には無料プレゼントも。予算わずか約60万円で300万通送り、マットレス売上36%増という驚異の効果を達成した。",
+      "medalLabel": "イエロー・ペンシル",
+      "brand": "Caritas",
+      "emoji": "🚑",
+      "bg": "bg-dove",
+      "title": "ポープモービル・フォー・ガザ：法王専用車をガザの子ども移動診療所に改造した人道支援広告",
+      "titleEn": "\"Popemobile for Gaza\" — Caritas",
+      "agency": "Differ",
+      "country": "国際",
+      "summary": "法王フランシスコの遺志でポープモービルがガザの移動診療所に",
+      "desc": "ガザの人道封鎖に抗議するためNGO CaritasとDifferが法王フランシスコのポープモービルをガザ向け子ども移動診療所に改造。法王の個人的祝福を受け、逝去から1週間後にNYタイムズ紙上で世界に発表。1日200人の子どもを診療可能。D&AD 2026イエロー・ペンシル受賞。",
       "links": [
         {
-          "label": "▶ ケーススタディ動画",
+          "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/watch?v=tJ4yKUxPxKE"
+          "url": "https://www.youtube.com/results?search_query=Popemobile+Gaza+Caritas+Differ+D%26AD+2026"
         },
         {
-          "label": "🔗 One Show受賞ページ",
+          "label": "🔗 Caritas公式",
           "cls": "lb-src",
-          "url": "https://www.oneclub.org/awards/theoneshow/-award/58791/u-upa/"
+          "url": "https://www.caritas.org/gaza/humanitarian-action/pope-francis-last-initiative-turns-the-popemobile-into-a-mobile-clinic-for-children-in-gaza/"
         },
         {
-          "label": "📰 AdWeek記事",
+          "label": "📰 D&AD受賞",
           "cls": "lb-off",
-          "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
+          "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
         }
       ]
     },
     {
-      "id": "heineken-pub-succession",
-      "award": "Clio Awards 2026",
+      "id": "i-wool-survive-grindr",
+      "award": "Clio Awards 2026 / Culture & Influence グランドクリオ",
       "awardShort": "clio",
-      "year": "2025",
+      "year": "2026",
       "medal": "grand",
-      "medalLabel": "Grand Clio",
-      "brand": "Heineken",
-      "emoji": "🍺",
+      "medalLabel": "グランドクリオ（Culture & Influence）",
+      "brand": "Grindr",
+      "emoji": "🐑",
       "bg": "bg-spotify",
-      "title": "155年の老舗パブを継ぐマクローリンを世界で探す",
-      "titleEn": "\"Pub Succession\" — Heineken",
-      "agency": "LePub / Publicis Dublin",
-      "country": "アイルランド・イタリア",
-      "summary": "苗字が「McLoughlin」なら後継者候補",
-      "desc": "アイルランドの離島・アキル島に155年続くマクローリン家の老舗パブ。高齢のオーナー・ジョジーには後継者がおらず廃業寸前に。ハイネケンがNYタイムズスクエアなど世界中で「苗字がマクローリンならパブを引き継ぎませんか」と呼びかけ、グローバルな話題を喚起した。",
+      "title": "アイ・ウール・サバイブ：ゲイの羊の毛でNYランウェイを彩ったGrindrの逆転発想",
+      "titleEn": "\"I Wool Survive\" — Grindr",
+      "agency": "Serviceplan Germany",
+      "country": "ドイツ・米国",
+      "summary": "殺処分されるゲイの羊を救い、その毛でNYファッションショーを開催",
+      "desc": "雄羊の約12頭に1頭はゲイで、交尾しないとして殺処分される。GrindrがドイツのRainbow Woolファームとデザイナーを繋ぎ、救出された36頭のゲイの羊の毛で制作した36着のNYランウェイショーを実現。Clio Awards 2026 Culture & Influence グランドクリオ、One Show 2026 Experiential Grand Prix受賞。",
       "links": [
         {
-          "label": "▶ YouTube動画",
+          "label": "▶ Ads of the World",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/watch?v=LIseURHh4mU"
+          "url": "https://www.adsoftheworld.com/campaigns/i-wool-survive"
         },
         {
-          "label": "🔗 Clio受賞ページ",
+          "label": "🔗 Clio受賞",
           "cls": "lb-src",
-          "url": "https://clios.com/press-article/grand-clio-winners-celebrated-for-creativity-at-67th-awards-ceremony/"
+          "url": "https://clios.com/winners-gallery/details/225110"
         },
         {
-          "label": "📰 Contagious記事",
+          "label": "📰 Grindr公式",
           "cls": "lb-off",
-          "url": "https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-heineken-launches-global-search-for-a-mcloughlin-to-save-historic-irish-pub"
+          "url": "https://www.grindr.com/blog/grindr-presents-i-wool-survive-how-we-connected-gay-sheep-to-the-nyc-runway"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-09",
+      "label": "2026年6月9日 更新分",
+      "campaigns": [
+        {
+          "id": "ikea-u-up",
+          "award": "The One Show 2026",
+          "awardShort": "oneshow",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "Gold Pencil",
+          "brand": "IKEA",
+          "emoji": "🛏️",
+          "bg": "bg-jcd",
+          "title": "深夜の「起きてる？」でマットレスを売る",
+          "titleEn": "\"U Up?\" — IKEA Canada",
+          "agency": "Rethink",
+          "country": "カナダ",
+          "summary": "バレンタイン深夜DMで売上36%増",
+          "desc": "バレンタインデーの深夜11時〜翌5時、IKEAがカナダ人のSNSに「u up?（起きてる？）」とDMを送信。返信した人にはマットレスの割引クーポンを進呈し、一部には無料プレゼントも。予算わずか約60万円で300万通送り、マットレス売上36%増という驚異の効果を達成した。",
+          "links": [
+            {
+              "label": "▶ ケーススタディ動画",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/watch?v=tJ4yKUxPxKE"
+            },
+            {
+              "label": "🔗 One Show受賞ページ",
+              "cls": "lb-src",
+              "url": "https://www.oneclub.org/awards/theoneshow/-award/58791/u-upa/"
+            },
+            {
+              "label": "📰 AdWeek記事",
+              "cls": "lb-off",
+              "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
+            }
+          ]
+        },
+        {
+          "id": "heineken-pub-succession",
+          "award": "Clio Awards 2026",
+          "awardShort": "clio",
+          "year": "2025",
+          "medal": "grand",
+          "medalLabel": "Grand Clio",
+          "brand": "Heineken",
+          "emoji": "🍺",
+          "bg": "bg-spotify",
+          "title": "155年の老舗パブを継ぐマクローリンを世界で探す",
+          "titleEn": "\"Pub Succession\" — Heineken",
+          "agency": "LePub / Publicis Dublin",
+          "country": "アイルランド・イタリア",
+          "summary": "苗字が「McLoughlin」なら後継者候補",
+          "desc": "アイルランドの離島・アキル島に155年続くマクローリン家の老舗パブ。高齢のオーナー・ジョジーには後継者がおらず廃業寸前に。ハイネケンがNYタイムズスクエアなど世界中で「苗字がマクローリンならパブを引き継ぎませんか」と呼びかけ、グローバルな話題を喚起した。",
+          "links": [
+            {
+              "label": "▶ YouTube動画",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/watch?v=LIseURHh4mU"
+            },
+            {
+              "label": "🔗 Clio受賞ページ",
+              "cls": "lb-src",
+              "url": "https://clios.com/press-article/grand-clio-winners-celebrated-for-creativity-at-67th-awards-ceremony/"
+            },
+            {
+              "label": "📰 Contagious記事",
+              "cls": "lb-off",
+              "url": "https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-heineken-launches-global-search-for-a-mcloughlin-to-save-historic-irish-pub"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "label": "2026年6月8日 更新分",

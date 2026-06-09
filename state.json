@@ -1,123 +1,199 @@
 {
   "existing_ids": [
-    "axe-smell-your-best",
-    "nz-herpes",
-    "vaseline-verified",
-    "haaland-payback",
-    "adidas-backyard-legends",
-    "ee-yes-boys",
-    "call-of-discounts",
-    "mountain-dew-darescore",
-    "apple-flock",
-    "paris2024-design",
-    "anthropic-a-time-and-a-place",
-    "voice-2-diabetes-klick",
-    "shiseido-best-after-2055",
-    "dove-real-beauty",
-    "ee-yes-boys-worldcup",
-    "gulf-of-mexico-bar",
-    "maori-roll-call",
-    "voice-2-diabetes",
-    "the-ordinary-periodic-fable",
     "canal-plus-tango",
-    "three-words-axa",
-    "nike-so-win",
-    "caption-with-intention",
-    "kitkat-commuter-camo",
-    "final-exam-change-the-ref",
+    "paris2024-design",
+    "lvmh-paris2024",
+    "mastercard-lady-gaga-abracadabra",
     "columbia-expedition-impossible",
+    "ba-reflections",
+    "ikea-u-up",
+    "nz-herpes",
+    "call-of-discounts",
+    "dove-real-beauty",
+    "three-words-axa",
+    "ok-go-love",
+    "night-fishing",
+    "marina-prieto",
+    "haaland-payback",
     "nike-winning",
-    "shot-on-iphone",
     "assume-i-can",
     "mcdonalds-no-smiles",
-    "night-fishing",
-    "lvmh-paris2024",
-    "ba-reflections",
-    "marina-prieto",
-    "vi-guardian-beads",
     "jacquemus-liline-ambassador",
-    "sting-f1-unofficial-sound",
-    "ok-go-love",
-    "lucky-yatra",
-    "mastercard-lady-gaga-abracadabra",
-    "tracking-bad-bunny",
     "whisper-project-early-periods",
+    "maori-roll-call",
+    "voice-2-diabetes",
     "spreadbeats",
+    "ee-yes-boys",
+    "kitkat-commuter-camo",
+    "adidas-backyard-legends",
+    "vi-guardian-beads",
+    "sting-f1-unofficial-sound",
+    "coinbase-your-way-out",
+    "vaseline-verified",
+    "caption-with-intention",
+    "shiseido-best-after-2055",
+    "shot-on-iphone",
+    "final-exam-change-the-ref",
+    "nike-so-win",
+    "heineken-pub-succession",
+    "apple-flock",
+    "voice-2-diabetes-klick",
+    "gulf-of-mexico-bar",
+    "anthropic-a-time-and-a-place",
+    "lucky-yatra",
     "sounds-right",
-    "coinbase-your-way-out"
+    "ee-yes-boys-worldcup",
+    "tracking-bad-bunny",
+    "mountain-dew-darescore",
+    "axe-smell-your-best",
+    "the-ordinary-periodic-fable"
   ],
-  "current_main_last_updated": "2026-06-08",
+  "current_main_last_updated": "2026-06-09",
   "current_main_campaigns": [
     {
-      "id": "ba-reflections",
+      "id": "ikea-u-up",
       "award": "The One Show 2026",
       "awardShort": "oneshow",
       "year": "2026",
-      "medal": "grand",
-      "medalLabel": "ゴールドペンシル×7",
-      "brand": "British Airways",
-      "emoji": "✈️",
-      "bg": "bg-dove",
-      "title": "窓の外に映るBAロゴ",
-      "titleEn": "\"Reflections\" — British Airways",
-      "agency": "Uncommon Creative Studio",
-      "country": "イギリス",
-      "summary": "エンジンに映る世界の旅の美",
-      "desc": "4人の英国人写真家が3大陸を旅し、機内の窓から捉えた絶景にエンジンのBAロゴが映り込む。コピーなし、ロゴのみで語るアウトドア広告。One Show 2026でゴールドペンシル7冠・デザイン部門最優秀賞を獲得。",
+      "medal": "notable",
+      "medalLabel": "Gold Pencil",
+      "brand": "IKEA",
+      "emoji": "🛏️",
+      "bg": "bg-jcd",
+      "title": "深夜の「起きてる？」でマットレスを売る",
+      "titleEn": "\"U Up?\" — IKEA Canada",
+      "agency": "Rethink",
+      "country": "カナダ",
+      "summary": "バレンタイン深夜DMで売上36%増",
+      "desc": "バレンタインデーの深夜11時〜翌5時、IKEAがカナダ人のSNSに「u up?（起きてる？）」とDMを送信。返信した人にはマットレスの割引クーポンを進呈し、一部には無料プレゼントも。予算わずか約60万円で300万通送り、マットレス売上36%増という驚異の効果を達成した。",
       "links": [
         {
-          "label": "▶ YouTubeで検索",
+          "label": "▶ ケーススタディ動画",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=British+Airways+Reflections+campaign+Uncommon"
+          "url": "https://www.youtube.com/watch?v=tJ4yKUxPxKE"
         },
         {
-          "label": "🔗 LBBOnline記事",
+          "label": "🔗 One Show受賞ページ",
           "cls": "lb-src",
-          "url": "https://lbbonline.com/news/British-Airways-Reflections-Air-Travel"
+          "url": "https://www.oneclub.org/awards/theoneshow/-award/58791/u-upa/"
         },
         {
-          "label": "📰 Creative Review",
+          "label": "📰 AdWeek記事",
           "cls": "lb-off",
-          "url": "https://www.creativereview.co.uk/british-airways-reflections-uncommon-advertising/"
+          "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
         }
       ]
     },
     {
-      "id": "columbia-expedition-impossible",
+      "id": "heineken-pub-succession",
       "award": "Clio Awards 2026",
       "awardShort": "clio",
-      "year": "2026",
+      "year": "2025",
       "medal": "grand",
-      "medalLabel": "グランド・クリオ",
-      "brand": "Columbia Sportswear",
-      "emoji": "🌍",
-      "bg": "bg-nz",
-      "title": "地球の端を見つけたら会社をあげる",
-      "titleEn": "\"Expedition Impossible\" — Columbia Sportswear",
-      "agency": "adam&eve\\TBWA",
-      "country": "アメリカ",
-      "summary": "地球平面説信者への大挑戦",
-      "desc": "CEOがNYタイムズに公開状を掲載し、地球が平面だと証明した人物にコロンビア社を丸ごと贈ると宣言。アウトドアブランドとして「どこまでも行ける装備」を証明しつつ、陰謀論コミュニティへ切り込む大胆な統合キャンペーン。",
+      "medalLabel": "Grand Clio",
+      "brand": "Heineken",
+      "emoji": "🍺",
+      "bg": "bg-spotify",
+      "title": "155年の老舗パブを継ぐマクローリンを世界で探す",
+      "titleEn": "\"Pub Succession\" — Heineken",
+      "agency": "LePub / Publicis Dublin",
+      "country": "アイルランド・イタリア",
+      "summary": "苗字が「McLoughlin」なら後継者候補",
+      "desc": "アイルランドの離島・アキル島に155年続くマクローリン家の老舗パブ。高齢のオーナー・ジョジーには後継者がおらず廃業寸前に。ハイネケンがNYタイムズスクエアなど世界中で「苗字がマクローリンならパブを引き継ぎませんか」と呼びかけ、グローバルな話題を喚起した。",
       "links": [
         {
-          "label": "▶ YouTubeで検索",
+          "label": "▶ YouTube動画",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Columbia+Sportswear+Expedition+Impossible+flat+earth"
+          "url": "https://www.youtube.com/watch?v=LIseURHh4mU"
         },
         {
           "label": "🔗 Clio受賞ページ",
           "cls": "lb-src",
-          "url": "https://clios.com/winners-gallery/details/224592"
+          "url": "https://clios.com/press-article/grand-clio-winners-celebrated-for-creativity-at-67th-awards-ceremony/"
         },
         {
           "label": "📰 Contagious記事",
           "cls": "lb-off",
-          "url": "https://www.contagious.com/en/article/news-and-views/expedition-impossible-c1057dab8b5545bf85668faa477fe71b"
+          "url": "https://www.contagious.com/en/article/news-and-views/campaign-of-the-week-heineken-launches-global-search-for-a-mcloughlin-to-save-historic-irish-pub"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-08",
+      "label": "2026年6月8日 更新分",
+      "campaigns": [
+        {
+          "id": "ba-reflections",
+          "award": "The One Show 2026",
+          "awardShort": "oneshow",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "ゴールドペンシル×7",
+          "brand": "British Airways",
+          "emoji": "✈️",
+          "bg": "bg-dove",
+          "title": "窓の外に映るBAロゴ",
+          "titleEn": "\"Reflections\" — British Airways",
+          "agency": "Uncommon Creative Studio",
+          "country": "イギリス",
+          "summary": "エンジンに映る世界の旅の美",
+          "desc": "4人の英国人写真家が3大陸を旅し、機内の窓から捉えた絶景にエンジンのBAロゴが映り込む。コピーなし、ロゴのみで語るアウトドア広告。One Show 2026でゴールドペンシル7冠・デザイン部門最優秀賞を獲得。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=British+Airways+Reflections+campaign+Uncommon"
+            },
+            {
+              "label": "🔗 LBBOnline記事",
+              "cls": "lb-src",
+              "url": "https://lbbonline.com/news/British-Airways-Reflections-Air-Travel"
+            },
+            {
+              "label": "📰 Creative Review",
+              "cls": "lb-off",
+              "url": "https://www.creativereview.co.uk/british-airways-reflections-uncommon-advertising/"
+            }
+          ]
+        },
+        {
+          "id": "columbia-expedition-impossible",
+          "award": "Clio Awards 2026",
+          "awardShort": "clio",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランド・クリオ",
+          "brand": "Columbia Sportswear",
+          "emoji": "🌍",
+          "bg": "bg-nz",
+          "title": "地球の端を見つけたら会社をあげる",
+          "titleEn": "\"Expedition Impossible\" — Columbia Sportswear",
+          "agency": "adam&eve\\TBWA",
+          "country": "アメリカ",
+          "summary": "地球平面説信者への大挑戦",
+          "desc": "CEOがNYタイムズに公開状を掲載し、地球が平面だと証明した人物にコロンビア社を丸ごと贈ると宣言。アウトドアブランドとして「どこまでも行ける装備」を証明しつつ、陰謀論コミュニティへ切り込む大胆な統合キャンペーン。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Columbia+Sportswear+Expedition+Impossible+flat+earth"
+            },
+            {
+              "label": "🔗 Clio受賞ページ",
+              "cls": "lb-src",
+              "url": "https://clios.com/winners-gallery/details/224592"
+            },
+            {
+              "label": "📰 Contagious記事",
+              "cls": "lb-off",
+              "url": "https://www.contagious.com/en/article/news-and-views/expedition-impossible-c1057dab8b5545bf85668faa477fe71b"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-07",
       "label": "2026年6月7日 更新分",

@@ -1,127 +1,202 @@
 {
   "existing_ids": [
-    "whisper-project-early-periods",
-    "kitkat-commuter-camo",
-    "call-of-discounts",
-    "gulf-of-mexico-bar",
-    "marina-prieto",
-    "voice-2-diabetes",
-    "dove-real-beauty",
-    "vi-guardian-beads",
-    "voice-2-diabetes-klick",
-    "apple-flock",
     "nike-winning",
-    "night-fishing",
-    "maori-roll-call",
-    "mastercard-lady-gaga-abracadabra",
-    "ee-yes-boys",
-    "shiseido-best-after-2055",
-    "mcdonalds-no-smiles",
-    "three-words-axa",
-    "nz-herpes",
-    "vaseline-verified",
-    "lvmh-paris2024",
-    "coinbase-your-way-out",
-    "haaland-payback",
-    "nike-so-win",
-    "spreadbeats",
-    "columbia-expedition-impossible",
-    "axe-smell-your-best",
-    "sting-f1-unofficial-sound",
-    "ikea-u-up",
-    "caption-with-intention",
     "popemobile-for-gaza",
-    "final-exam-change-the-ref",
-    "ee-yes-boys-worldcup",
+    "nike-so-win",
     "canal-plus-tango",
-    "assume-i-can",
-    "sounds-right",
-    "ba-reflections",
-    "mountain-dew-darescore",
+    "heineken-pub-succession",
+    "lvmh-paris2024",
+    "shiseido-best-after-2055",
+    "coinbase-your-way-out",
+    "sting-f1-unofficial-sound",
+    "final-exam-change-the-ref",
+    "acko-tailor",
+    "marina-prieto",
+    "caption-with-intention",
     "lucky-yatra",
-    "jacquemus-liline-ambassador",
-    "anthropic-a-time-and-a-place",
-    "shot-on-iphone",
-    "the-ordinary-periodic-fable",
+    "maori-roll-call",
+    "axe-smell-your-best",
     "i-wool-survive-grindr",
+    "voice-2-diabetes-klick",
     "paris2024-design",
+    "night-fishing",
+    "anthropic-a-time-and-a-place",
+    "jacquemus-liline-ambassador",
+    "call-of-discounts",
+    "ba-reflections",
+    "the-ordinary-periodic-fable",
+    "sounds-right",
+    "gulf-of-mexico-bar",
+    "vaseline-verified",
+    "columbia-expedition-impossible",
+    "shot-on-iphone",
+    "assume-i-can",
+    "spreadbeats",
+    "whisper-project-early-periods",
     "ok-go-love",
+    "ikea-u-up",
+    "haaland-payback",
+    "kitkat-commuter-camo",
+    "nz-herpes",
+    "mountain-dew-darescore",
+    "three-words-axa",
+    "ee-yes-boys-worldcup",
+    "mcdonalds-no-smiles",
+    "ee-yes-boys",
+    "dove-real-beauty",
     "adidas-backyard-legends",
+    "vi-guardian-beads",
     "tracking-bad-bunny",
-    "heineken-pub-succession"
+    "voice-2-diabetes",
+    "apple-flock",
+    "mastercard-lady-gaga-abracadabra"
   ],
-  "current_main_last_updated": "2026-06-09",
+  "current_main_last_updated": "2026-06-10",
   "current_main_campaigns": [
     {
-      "id": "popemobile-for-gaza",
-      "award": "D&AD 2026 / Yellow Pencil",
-      "awardShort": "dad",
+      "id": "ikea-u-up",
+      "award": "One Show 2026 / Gold Pencil × 3",
+      "awardShort": "oneshow",
       "year": "2026",
       "medal": "notable",
-      "medalLabel": "イエロー・ペンシル",
-      "brand": "Caritas",
-      "emoji": "🚑",
-      "bg": "bg-dove",
-      "title": "ポープモービル・フォー・ガザ：法王専用車をガザの子ども移動診療所に改造した人道支援広告",
-      "titleEn": "\"Popemobile for Gaza\" — Caritas",
-      "agency": "Differ",
-      "country": "国際",
-      "summary": "法王フランシスコの遺志でポープモービルがガザの移動診療所に",
-      "desc": "ガザの人道封鎖に抗議するためNGO CaritasとDifferが法王フランシスコのポープモービルをガザ向け子ども移動診療所に改造。法王の個人的祝福を受け、逝去から1週間後にNYタイムズ紙上で世界に発表。1日200人の子どもを診療可能。D&AD 2026イエロー・ペンシル受賞。",
-      "links": [
-        {
-          "label": "▶ YouTubeで検索",
-          "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Popemobile+Gaza+Caritas+Differ+D%26AD+2026"
-        },
-        {
-          "label": "🔗 Caritas公式",
-          "cls": "lb-src",
-          "url": "https://www.caritas.org/gaza/humanitarian-action/pope-francis-last-initiative-turns-the-popemobile-into-a-mobile-clinic-for-children-in-gaza/"
-        },
-        {
-          "label": "📰 D&AD受賞",
-          "cls": "lb-off",
-          "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
-        }
-      ]
-    },
-    {
-      "id": "i-wool-survive-grindr",
-      "award": "Clio Awards 2026 / Culture & Influence グランドクリオ",
-      "awardShort": "clio",
-      "year": "2026",
-      "medal": "grand",
-      "medalLabel": "グランドクリオ（Culture & Influence）",
-      "brand": "Grindr",
-      "emoji": "🐑",
+      "medalLabel": "ゴールドペンシル×3",
+      "brand": "IKEA Canada",
+      "emoji": "🌙",
       "bg": "bg-spotify",
-      "title": "アイ・ウール・サバイブ：ゲイの羊の毛でNYランウェイを彩ったGrindrの逆転発想",
-      "titleEn": "\"I Wool Survive\" — Grindr",
-      "agency": "Serviceplan Germany",
-      "country": "ドイツ・米国",
-      "summary": "殺処分されるゲイの羊を救い、その毛でNYファッションショーを開催",
-      "desc": "雄羊の約12頭に1頭はゲイで、交尾しないとして殺処分される。GrindrがドイツのRainbow Woolファームとデザイナーを繋ぎ、救出された36頭のゲイの羊の毛で制作した36着のNYランウェイショーを実現。Clio Awards 2026 Culture & Influence グランドクリオ、One Show 2026 Experiential Grand Prix受賞。",
+      "title": "U up?：深夜のナンパDMを逆手に取ったIKEAのマットレス戦略",
+      "titleEn": "\"U up?\" — IKEA",
+      "agency": "Rethink, Toronto",
+      "country": "カナダ",
+      "summary": "夜10時〜朝5時、不眠ユーザーのInstagramに「U up?」とDM",
+      "desc": "IKEA Canadaがカナダの不眠ユーザーに向け、深夜のInstagramナンパDM「U up?」を送付。返信するとマットレス15%オフ（一部は無料）を提案。ナンパ文化を睡眠改善に転換したキャンペーンでOne Show 2026 ゴールドペンシル3冠受賞。",
       "links": [
         {
           "label": "▶ Ads of the World",
           "cls": "lb-video",
-          "url": "https://www.adsoftheworld.com/campaigns/i-wool-survive"
+          "url": "https://www.adsoftheworld.com/campaigns/u-up-case-study"
         },
         {
-          "label": "🔗 Clio受賞",
+          "label": "🔗 One Show受賞",
           "cls": "lb-src",
-          "url": "https://clios.com/winners-gallery/details/225110"
+          "url": "https://www.oneclub.org/awards/theoneshow/-award/64314/u-upa/"
         },
         {
-          "label": "📰 Grindr公式",
+          "label": "📰 Adweek",
           "cls": "lb-off",
-          "url": "https://www.grindr.com/blog/grindr-presents-i-wool-survive-how-we-connected-gay-sheep-to-the-nyc-runway"
+          "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
+        }
+      ]
+    },
+    {
+      "id": "acko-tailor",
+      "award": "Spikes Asia 2026 / Direct部門グランプリ",
+      "awardShort": "spikes",
+      "year": "2026",
+      "medal": "grand",
+      "medalLabel": "グランプリ（Direct）",
+      "brand": "Acko General Insurance",
+      "emoji": "🧵",
+      "bg": "bg-coc",
+      "title": "アッコ・テーラー：オーダースーツのメタファーで保険をカスタマイズすると伝えた一手",
+      "titleEn": "\"Acko Tailor\" — Acko General Insurance",
+      "agency": "Leo Burnett, Mumbai",
+      "country": "インド",
+      "summary": "一着一着仕立てるスーツのように、保険もあなたに合わせてつくる",
+      "desc": "複雑な約款と画一的な保障で敬遠されがちな保険カテゴリーで、AckoとLeo Burnett Mumbaiがテーラーのオーダースーツを比喩にカスタム保険を直感的に訴求。Spikes Asia 2026 Direct部門グランプリ受賞。インドの存在感をAPACで証明した一作。",
+      "links": [
+        {
+          "label": "▶ YouTubeで検索",
+          "cls": "lb-video",
+          "url": "https://www.youtube.com/results?search_query=Acko+Tailor+Leo+Burnett+Mumbai+Spikes+Asia+2026"
+        },
+        {
+          "label": "🔗 Spikes Asia",
+          "cls": "lb-src",
+          "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+        },
+        {
+          "label": "📰 Campaign Asia",
+          "cls": "lb-off",
+          "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-09",
+      "label": "2026年6月9日 更新分",
+      "campaigns": [
+        {
+          "id": "popemobile-for-gaza",
+          "award": "D&AD 2026 / Yellow Pencil",
+          "awardShort": "dad",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "イエロー・ペンシル",
+          "brand": "Caritas",
+          "emoji": "🚑",
+          "bg": "bg-dove",
+          "title": "ポープモービル・フォー・ガザ：法王専用車をガザの子ども移動診療所に改造した人道支援広告",
+          "titleEn": "\"Popemobile for Gaza\" — Caritas",
+          "agency": "Differ",
+          "country": "国際",
+          "summary": "法王フランシスコの遺志でポープモービルがガザの移動診療所に",
+          "desc": "ガザの人道封鎖に抗議するためNGO CaritasとDifferが法王フランシスコのポープモービルをガザ向け子ども移動診療所に改造。法王の個人的祝福を受け、逝去から1週間後にNYタイムズ紙上で世界に発表。1日200人の子どもを診療可能。D&AD 2026イエロー・ペンシル受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Popemobile+Gaza+Caritas+Differ+D%26AD+2026"
+            },
+            {
+              "label": "🔗 Caritas公式",
+              "cls": "lb-src",
+              "url": "https://www.caritas.org/gaza/humanitarian-action/pope-francis-last-initiative-turns-the-popemobile-into-a-mobile-clinic-for-children-in-gaza/"
+            },
+            {
+              "label": "📰 D&AD受賞",
+              "cls": "lb-off",
+              "url": "https://www.creativereview.co.uk/daad-awards-yellow-pencil-winners-2026/"
+            }
+          ]
+        },
+        {
+          "id": "i-wool-survive-grindr",
+          "award": "Clio Awards 2026 / Culture & Influence グランドクリオ",
+          "awardShort": "clio",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランドクリオ（Culture & Influence）",
+          "brand": "Grindr",
+          "emoji": "🐑",
+          "bg": "bg-spotify",
+          "title": "アイ・ウール・サバイブ：ゲイの羊の毛でNYランウェイを彩ったGrindrの逆転発想",
+          "titleEn": "\"I Wool Survive\" — Grindr",
+          "agency": "Serviceplan Germany",
+          "country": "ドイツ・米国",
+          "summary": "殺処分されるゲイの羊を救い、その毛でNYファッションショーを開催",
+          "desc": "雄羊の約12頭に1頭はゲイで、交尾しないとして殺処分される。GrindrがドイツのRainbow Woolファームとデザイナーを繋ぎ、救出された36頭のゲイの羊の毛で制作した36着のNYランウェイショーを実現。Clio Awards 2026 Culture & Influence グランドクリオ、One Show 2026 Experiential Grand Prix受賞。",
+          "links": [
+            {
+              "label": "▶ Ads of the World",
+              "cls": "lb-video",
+              "url": "https://www.adsoftheworld.com/campaigns/i-wool-survive"
+            },
+            {
+              "label": "🔗 Clio受賞",
+              "cls": "lb-src",
+              "url": "https://clios.com/winners-gallery/details/225110"
+            },
+            {
+              "label": "📰 Grindr公式",
+              "cls": "lb-off",
+              "url": "https://www.grindr.com/blog/grindr-presents-i-wool-survive-how-we-connected-gay-sheep-to-the-nyc-runway"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "label": "2026年6月9日 更新分",

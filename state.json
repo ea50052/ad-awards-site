@@ -1,128 +1,204 @@
 {
   "existing_ids": [
-    "nike-winning",
-    "popemobile-for-gaza",
-    "nike-so-win",
+    "voice-2-diabetes",
+    "heinz-dipper",
     "canal-plus-tango",
-    "heineken-pub-succession",
-    "lvmh-paris2024",
-    "shiseido-best-after-2055",
-    "coinbase-your-way-out",
-    "sting-f1-unofficial-sound",
-    "final-exam-change-the-ref",
-    "acko-tailor",
-    "marina-prieto",
-    "caption-with-intention",
     "lucky-yatra",
-    "maori-roll-call",
-    "axe-smell-your-best",
-    "i-wool-survive-grindr",
-    "voice-2-diabetes-klick",
-    "paris2024-design",
     "night-fishing",
-    "anthropic-a-time-and-a-place",
-    "jacquemus-liline-ambassador",
-    "call-of-discounts",
-    "ba-reflections",
-    "the-ordinary-periodic-fable",
     "sounds-right",
-    "gulf-of-mexico-bar",
-    "vaseline-verified",
-    "columbia-expedition-impossible",
-    "shot-on-iphone",
-    "assume-i-can",
     "spreadbeats",
     "whisper-project-early-periods",
-    "ok-go-love",
-    "ikea-u-up",
-    "haaland-payback",
-    "kitkat-commuter-camo",
-    "nz-herpes",
     "mountain-dew-darescore",
+    "jacquemus-liline-ambassador",
+    "kitkat-commuter-camo",
+    "nike-so-win",
+    "popemobile-for-gaza",
+    "final-exam-change-the-ref",
+    "lvmh-paris2024",
+    "columbia-expedition-impossible",
+    "paris2024-design",
+    "nz-herpes",
+    "ba-reflections",
     "three-words-axa",
+    "caption-with-intention",
+    "acko-tailor",
+    "ee-yes-boys",
+    "shot-on-iphone",
+    "adidas-backyard-legends",
+    "nike-winning",
+    "axe-smell-your-best",
+    "ok-go-love",
+    "shiseido-best-after-2055",
+    "i-wool-survive-grindr",
+    "assume-i-can",
+    "heineken-pub-succession",
+    "vaseline-verified",
+    "apple-flock",
     "ee-yes-boys-worldcup",
     "mcdonalds-no-smiles",
-    "ee-yes-boys",
+    "haaland-payback",
+    "mastercard-lady-gaga-abracadabra",
+    "maori-roll-call",
+    "anthropic-a-time-and-a-place",
+    "call-of-discounts",
+    "coinbase-your-way-out",
+    "ikea-u-up",
     "dove-real-beauty",
-    "adidas-backyard-legends",
-    "vi-guardian-beads",
+    "the-ordinary-periodic-fable",
+    "marina-prieto",
+    "gulf-of-mexico-bar",
+    "voice-2-diabetes-klick",
     "tracking-bad-bunny",
-    "voice-2-diabetes",
-    "apple-flock",
-    "mastercard-lady-gaga-abracadabra"
+    "sting-f1-unofficial-sound",
+    "london-museum-grit-glitter",
+    "vi-guardian-beads"
   ],
-  "current_main_last_updated": "2026-06-10",
+  "current_main_last_updated": "2026-06-11",
   "current_main_campaigns": [
     {
-      "id": "ikea-u-up",
-      "award": "One Show 2026 / Gold Pencil × 3",
+      "id": "heinz-dipper",
+      "award": "One Show 2026 / Gold Pencil",
       "awardShort": "oneshow",
       "year": "2026",
       "medal": "notable",
-      "medalLabel": "ゴールドペンシル×3",
-      "brand": "IKEA Canada",
-      "emoji": "🌙",
-      "bg": "bg-spotify",
-      "title": "U up?：深夜のナンパDMを逆手に取ったIKEAのマットレス戦略",
-      "titleEn": "\"U up?\" — IKEA",
+      "medalLabel": "ゴールドペンシル",
+      "brand": "Heinz",
+      "emoji": "🍟",
+      "bg": "bg-lvmh",
+      "title": "ハインツ・ディッパー：ロゴ形ケチャップ内蔵ボックスが1億インプレッション",
+      "titleEn": "HEINZ Dipper — Rethink",
       "agency": "Rethink, Toronto",
       "country": "カナダ",
-      "summary": "夜10時〜朝5時、不眠ユーザーのInstagramに「U up?」とDM",
-      "desc": "IKEA Canadaがカナダの不眠ユーザーに向け、深夜のInstagramナンパDM「U up?」を送付。返信するとマットレス15%オフ（一部は無料）を提案。ナンパ文化を睡眠改善に転換したキャンペーンでOne Show 2026 ゴールドペンシル3冠受賞。",
-      "links": [
-        {
-          "label": "▶ Ads of the World",
-          "cls": "lb-video",
-          "url": "https://www.adsoftheworld.com/campaigns/u-up-case-study"
-        },
-        {
-          "label": "🔗 One Show受賞",
-          "cls": "lb-src",
-          "url": "https://www.oneclub.org/awards/theoneshow/-award/64314/u-upa/"
-        },
-        {
-          "label": "📰 Adweek",
-          "cls": "lb-off",
-          "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
-        }
-      ]
-    },
-    {
-      "id": "acko-tailor",
-      "award": "Spikes Asia 2026 / Direct部門グランプリ",
-      "awardShort": "spikes",
-      "year": "2026",
-      "medal": "grand",
-      "medalLabel": "グランプリ（Direct）",
-      "brand": "Acko General Insurance",
-      "emoji": "🧵",
-      "bg": "bg-coc",
-      "title": "アッコ・テーラー：オーダースーツのメタファーで保険をカスタマイズすると伝えた一手",
-      "titleEn": "\"Acko Tailor\" — Acko General Insurance",
-      "agency": "Leo Burnett, Mumbai",
-      "country": "インド",
-      "summary": "一着一着仕立てるスーツのように、保険もあなたに合わせてつくる",
-      "desc": "複雑な約款と画一的な保障で敬遠されがちな保険カテゴリーで、AckoとLeo Burnett Mumbaiがテーラーのオーダースーツを比喩にカスタム保険を直感的に訴求。Spikes Asia 2026 Direct部門グランプリ受賞。インドの存在感をAPACで証明した一作。",
+      "summary": "ロゴ形ケチャップボックスが世界で話題",
+      "desc": "「フライとケチャップは切り離せない」を体現するため、ハインツロゴの形そのものをディップポケットにした世界初のフライボックス「HEINZ Dipper」を開発。外出先でもケチャップをつけやすく、発売初週に10億超の獲得インプレッション、900社以上の新規パートナーが採用。One Show 2026でゴールドペンシルを複数受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Acko+Tailor+Leo+Burnett+Mumbai+Spikes+Asia+2026"
+          "url": "https://www.youtube.com/results?search_query=HEINZ+Dipper+campaign+2026"
         },
         {
-          "label": "🔗 Spikes Asia",
+          "label": "🔗 One Show受賞",
           "cls": "lb-src",
-          "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+          "url": "https://www.oneclub.org/awards/theoneshow/-award/64350/you-cant-have-fries-without-heinz/"
         },
         {
-          "label": "📰 Campaign Asia",
+          "label": "📰 Ads of the World",
           "cls": "lb-off",
-          "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+          "url": "https://www.adsoftheworld.com/campaigns/the-heinz-dipper"
+        }
+      ]
+    },
+    {
+      "id": "london-museum-grit-glitter",
+      "award": "One Show 2026 / Gold Pencil",
+      "awardShort": "oneshow",
+      "year": "2026",
+      "medal": "notable",
+      "medalLabel": "ゴールドペンシル",
+      "brand": "London Museum",
+      "emoji": "🐦",
+      "bg": "bg-paris",
+      "title": "グリット＆グリッター：鳩の金フンで語るロンドンの二面性",
+      "titleEn": "The Grit and the Glitter — London Museum",
+      "agency": "Uncommon Creative Studio, London",
+      "country": "イギリス",
+      "summary": "鳩の金フンがロンドンを象徴するリブランド",
+      "desc": "ロンドン博物館が新拠点スミスフィールドへ移転するにあたり、Uncommon Creative Studioが「グリット（泥臭さ）＆グリッター（輝き）」をコンセプトにしたリブランディングを実施。金色に輝く鳩のフンをシンボルに据え、ロンドンの多面的な個性を体現。One Show 2026デザイン部門ゴールドペンシルを受賞し、Uncommonは欧州エージェンシー・オブ・ザ・イヤーに輝いた。",
+      "links": [
+        {
+          "label": "▶ YouTubeで検索",
+          "cls": "lb-video",
+          "url": "https://www.youtube.com/results?search_query=London+Museum+Grit+Glitter+Uncommon+2026"
+        },
+        {
+          "label": "🔗 One Show受賞",
+          "cls": "lb-src",
+          "url": "https://www.media-marketing.com/en/news/uncommon-creative-studio-london-named-europe-agency-of-the-year-at-the-one-show-2026/"
+        },
+        {
+          "label": "📰 Design Week",
+          "cls": "lb-off",
+          "url": "https://www.designweek.co.uk/uncommon-creative-studios-pigeon-based-identity-for-london-museum/"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-10",
+      "label": "2026年6月10日 更新分",
+      "campaigns": [
+        {
+          "id": "ikea-u-up",
+          "award": "One Show 2026 / Gold Pencil × 3",
+          "awardShort": "oneshow",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "ゴールドペンシル×3",
+          "brand": "IKEA Canada",
+          "emoji": "🌙",
+          "bg": "bg-spotify",
+          "title": "U up?：深夜のナンパDMを逆手に取ったIKEAのマットレス戦略",
+          "titleEn": "\"U up?\" — IKEA",
+          "agency": "Rethink, Toronto",
+          "country": "カナダ",
+          "summary": "夜10時〜朝5時、不眠ユーザーのInstagramに「U up?」とDM",
+          "desc": "IKEA Canadaがカナダの不眠ユーザーに向け、深夜のInstagramナンパDM「U up?」を送付。返信するとマットレス15%オフ（一部は無料）を提案。ナンパ文化を睡眠改善に転換したキャンペーンでOne Show 2026 ゴールドペンシル3冠受賞。",
+          "links": [
+            {
+              "label": "▶ Ads of the World",
+              "cls": "lb-video",
+              "url": "https://www.adsoftheworld.com/campaigns/u-up-case-study"
+            },
+            {
+              "label": "🔗 One Show受賞",
+              "cls": "lb-src",
+              "url": "https://www.oneclub.org/awards/theoneshow/-award/64314/u-upa/"
+            },
+            {
+              "label": "📰 Adweek",
+              "cls": "lb-off",
+              "url": "https://www.adweek.com/creativity/ikea-slides-into-dms-with-a-cheeky-offer-for-late-night-scrollers/"
+            }
+          ]
+        },
+        {
+          "id": "acko-tailor",
+          "award": "Spikes Asia 2026 / Direct部門グランプリ",
+          "awardShort": "spikes",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランプリ（Direct）",
+          "brand": "Acko General Insurance",
+          "emoji": "🧵",
+          "bg": "bg-coc",
+          "title": "アッコ・テーラー：オーダースーツのメタファーで保険をカスタマイズすると伝えた一手",
+          "titleEn": "\"Acko Tailor\" — Acko General Insurance",
+          "agency": "Leo Burnett, Mumbai",
+          "country": "インド",
+          "summary": "一着一着仕立てるスーツのように、保険もあなたに合わせてつくる",
+          "desc": "複雑な約款と画一的な保障で敬遠されがちな保険カテゴリーで、AckoとLeo Burnett Mumbaiがテーラーのオーダースーツを比喩にカスタム保険を直感的に訴求。Spikes Asia 2026 Direct部門グランプリ受賞。インドの存在感をAPACで証明した一作。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Acko+Tailor+Leo+Burnett+Mumbai+Spikes+Asia+2026"
+            },
+            {
+              "label": "🔗 Spikes Asia",
+              "cls": "lb-src",
+              "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+            },
+            {
+              "label": "📰 Campaign Asia",
+              "cls": "lb-off",
+              "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "label": "2026年6月9日 更新分",

@@ -1,130 +1,206 @@
 {
   "existing_ids": [
-    "voice-2-diabetes-klick",
-    "haaland-payback",
-    "anthropic-a-time-and-a-place",
-    "voice-2-diabetes",
-    "call-of-discounts",
-    "heineken-pub-succession",
-    "sounds-right",
-    "mountain-dew-darescore",
-    "the-ordinary-periodic-fable",
-    "ba-reflections",
-    "columbia-expedition-impossible",
-    "dove-real-beauty",
-    "kitkat-commuter-camo",
-    "london-museum-grit-glitter",
-    "lvmh-paris2024",
-    "final-exam-change-the-ref",
-    "night-fishing",
-    "whisper-project-early-periods",
-    "three-words-axa",
-    "canal-plus-tango",
-    "shot-on-iphone",
-    "shiseido-best-after-2055",
-    "vi-guardian-beads",
-    "ok-go-love",
-    "vaseline-verified",
-    "spreadbeats",
     "sting-f1-unofficial-sound",
-    "popemobile-for-gaza",
-    "jacquemus-liline-ambassador",
-    "mastercard-lady-gaga-abracadabra",
-    "marina-prieto",
-    "mcdonalds-no-smiles",
-    "coinbase-your-way-out",
-    "paris2024-design",
-    "assume-i-can",
-    "caption-with-intention",
-    "axe-smell-your-best",
-    "apple-flock",
-    "gulf-of-mexico-bar",
-    "lucky-yatra",
-    "maori-roll-call",
-    "nz-herpes",
-    "ee-yes-boys",
-    "heinz-dipper",
+    "sounds-right",
     "ee-yes-boys-worldcup",
-    "ikea-u-up",
+    "heineken-pub-succession",
+    "mountain-dew-darescore",
+    "vi-guardian-beads",
+    "apple-flock",
+    "nike-winning",
+    "voice-2-diabetes",
+    "night-fishing",
+    "spreadbeats",
+    "maori-roll-call",
+    "popemobile-for-gaza",
+    "child-wedding-cards",
+    "coinbase-your-way-out",
+    "i-wool-survive-grindr",
+    "vaseline-verified",
     "tracking-bad-bunny",
     "nike-so-win",
+    "canal-plus-tango",
     "adidas-backyard-legends",
+    "three-words-axa",
+    "ikea-u-up",
+    "london-museum-grit-glitter",
     "acko-tailor",
-    "i-wool-survive-grindr",
-    "nike-winning"
+    "shot-on-iphone",
+    "gulf-of-mexico-bar",
+    "dove-real-beauty",
+    "the-ordinary-periodic-fable",
+    "heinz-dipper",
+    "assume-i-can",
+    "axe-smell-your-best",
+    "columbia-expedition-impossible",
+    "lucky-yatra",
+    "ba-reflections",
+    "voice-2-diabetes-klick",
+    "kitkat-commuter-camo",
+    "paris2024-design",
+    "jacquemus-liline-ambassador",
+    "ee-yes-boys",
+    "caption-with-intention",
+    "final-exam-change-the-ref",
+    "nz-herpes",
+    "mastercard-lady-gaga-abracadabra",
+    "anthropic-a-time-and-a-place",
+    "mcdonalds-no-smiles",
+    "whisper-project-early-periods",
+    "ok-go-love",
+    "breastmilk-money",
+    "lvmh-paris2024",
+    "marina-prieto",
+    "shiseido-best-after-2055",
+    "call-of-discounts",
+    "haaland-payback"
   ],
   "current_main_last_updated": "2026-06-12",
   "current_main_campaigns": [
     {
-      "id": "heinz-dipper",
-      "award": "One Show 2026 / Gold Pencil",
-      "awardShort": "oneshow",
+      "id": "breastmilk-money",
+      "award": "Clio Health 2026",
+      "awardShort": "clio",
       "year": "2026",
-      "medal": "notable",
-      "medalLabel": "ゴールドペンシル",
-      "brand": "Heinz",
-      "emoji": "🍟",
-      "bg": "bg-lvmh",
-      "title": "ハインツ・ディッパー：ロゴ形ケチャップ内蔵ボックスが1億インプレッション",
-      "titleEn": "HEINZ Dipper — Rethink",
-      "agency": "Rethink, Toronto",
-      "country": "カナダ",
-      "summary": "ロゴ形ケチャップボックスが世界で話題",
-      "desc": "「フライとケチャップは切り離せない」を体現するため、ハインツロゴの形そのものをディップポケットにした世界初のフライボックス「HEINZ Dipper」を開発。外出先でもケチャップをつけやすく、発売初週に10億超の獲得インプレッション、900社以上の新規パートナーが採用。One Show 2026でゴールドペンシルを複数受賞。",
+      "medal": "grand",
+      "medalLabel": "グランクリオ・ヘルス",
+      "brand": "Herconomy",
+      "emoji": "🍼",
+      "bg": "bg-dove",
+      "title": "母乳がお金になる銀行口座",
+      "titleEn": "Breastmilk Money",
+      "agency": "Serviceplan Innovation",
+      "country": "ナイジェリア",
+      "summary": "母乳育児が利息を生む貯蓄になる",
+      "desc": "ナイジェリアの金融プラットフォームHerconomyが、粉ミルクを買わずに母乳育児で浮いたお金を自動算出し、年利14.3%で積み立てる専用口座を開発。育児を経済的資産に変える発想で、開始3か月で対象地域の母乳育児率が9%向上。2026年クリオ・ヘルスでデジタル/モバイル部門グランプリを受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=HEINZ+Dipper+campaign+2026"
+          "url": "https://www.youtube.com/results?search_query=Breastmilk+Money+Herconomy+Serviceplan"
         },
         {
-          "label": "🔗 One Show受賞",
+          "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.oneclub.org/awards/theoneshow/-award/64350/you-cant-have-fries-without-heinz/"
+          "url": "https://musebyclios.com/health/breastmilk-money-puts-cash-back-in-the-pockets-of-nigerian-women/"
         },
         {
-          "label": "📰 Ads of the World",
+          "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://www.adsoftheworld.com/campaigns/the-heinz-dipper"
+          "url": "https://lbbonline.com/news/herconomy-launches-savings-account-that-rewards-nigerian-mothers-for-breastfeeding"
         }
       ]
     },
     {
-      "id": "london-museum-grit-glitter",
-      "award": "One Show 2026 / Gold Pencil",
-      "awardShort": "oneshow",
+      "id": "child-wedding-cards",
+      "award": "Clio Health 2026",
+      "awardShort": "clio",
       "year": "2026",
-      "medal": "notable",
-      "medalLabel": "ゴールドペンシル",
-      "brand": "London Museum",
-      "emoji": "🐦",
+      "medal": "grand",
+      "medalLabel": "グランクリオ・ヘルス",
+      "brand": "UN Women",
+      "emoji": "💌",
       "bg": "bg-paris",
-      "title": "グリット＆グリッター：鳩の金フンで語るロンドンの二面性",
-      "titleEn": "The Grit and the Glitter — London Museum",
-      "agency": "Uncommon Creative Studio, London",
-      "country": "イギリス",
-      "summary": "鳩の金フンがロンドンを象徴するリブランド",
-      "desc": "ロンドン博物館が新拠点スミスフィールドへ移転するにあたり、Uncommon Creative Studioが「グリット（泥臭さ）＆グリッター（輝き）」をコンセプトにしたリブランディングを実施。金色に輝く鳩のフンをシンボルに据え、ロンドンの多面的な個性を体現。One Show 2026デザイン部門ゴールドペンシルを受賞し、Uncommonは欧州エージェンシー・オブ・ザ・イヤーに輝いた。",
+      "title": "子どもが描いた結婚式の招待状",
+      "titleEn": "Child Wedding Cards",
+      "agency": "Impact BBDO",
+      "country": "パキスタン",
+      "summary": "招待状が児童婚の法律を変えた",
+      "desc": "5〜15歳の子ども（元児童花嫁を含む）が描いた架空の「子どもの結婚式」の招待状をパキスタン国会議員に直接送付。議員が議会にカードを持ち込み議論が紛糾し、連邦シャリア裁判所による婚姻最低年齢18歳の画期的判断につながった。制作費わずか1,500ドル。2026年クリオ・ヘルスで効果部門グランプリを受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=London+Museum+Grit+Glitter+Uncommon+2026"
+          "url": "https://www.youtube.com/results?search_query=Child+Wedding+Cards+UN+Women+Impact+BBDO"
         },
         {
-          "label": "🔗 One Show受賞",
+          "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.media-marketing.com/en/news/uncommon-creative-studio-london-named-europe-agency-of-the-year-at-the-one-show-2026/"
+          "url": "https://www.shootonline.com/shoot_newsbriefs/clio-health-honors-2026-grand-and-of-the-year-winners/"
         },
         {
-          "label": "📰 Design Week",
+          "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://www.designweek.co.uk/uncommon-creative-studios-pigeon-based-identity-for-london-museum/"
+          "url": "https://campaignsoftheworld.com/ooh-campaigns/child-wedding-cards/"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-12",
+      "label": "2026年6月12日 更新分",
+      "campaigns": [
+        {
+          "id": "heinz-dipper",
+          "award": "One Show 2026 / Gold Pencil",
+          "awardShort": "oneshow",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "ゴールドペンシル",
+          "brand": "Heinz",
+          "emoji": "🍟",
+          "bg": "bg-lvmh",
+          "title": "ハインツ・ディッパー：ロゴ形ケチャップ内蔵ボックスが1億インプレッション",
+          "titleEn": "HEINZ Dipper — Rethink",
+          "agency": "Rethink, Toronto",
+          "country": "カナダ",
+          "summary": "ロゴ形ケチャップボックスが世界で話題",
+          "desc": "「フライとケチャップは切り離せない」を体現するため、ハインツロゴの形そのものをディップポケットにした世界初のフライボックス「HEINZ Dipper」を開発。外出先でもケチャップをつけやすく、発売初週に10億超の獲得インプレッション、900社以上の新規パートナーが採用。One Show 2026でゴールドペンシルを複数受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=HEINZ+Dipper+campaign+2026"
+            },
+            {
+              "label": "🔗 One Show受賞",
+              "cls": "lb-src",
+              "url": "https://www.oneclub.org/awards/theoneshow/-award/64350/you-cant-have-fries-without-heinz/"
+            },
+            {
+              "label": "📰 Ads of the World",
+              "cls": "lb-off",
+              "url": "https://www.adsoftheworld.com/campaigns/the-heinz-dipper"
+            }
+          ]
+        },
+        {
+          "id": "london-museum-grit-glitter",
+          "award": "One Show 2026 / Gold Pencil",
+          "awardShort": "oneshow",
+          "year": "2026",
+          "medal": "notable",
+          "medalLabel": "ゴールドペンシル",
+          "brand": "London Museum",
+          "emoji": "🐦",
+          "bg": "bg-paris",
+          "title": "グリット＆グリッター：鳩の金フンで語るロンドンの二面性",
+          "titleEn": "The Grit and the Glitter — London Museum",
+          "agency": "Uncommon Creative Studio, London",
+          "country": "イギリス",
+          "summary": "鳩の金フンがロンドンを象徴するリブランド",
+          "desc": "ロンドン博物館が新拠点スミスフィールドへ移転するにあたり、Uncommon Creative Studioが「グリット（泥臭さ）＆グリッター（輝き）」をコンセプトにしたリブランディングを実施。金色に輝く鳩のフンをシンボルに据え、ロンドンの多面的な個性を体現。One Show 2026デザイン部門ゴールドペンシルを受賞し、Uncommonは欧州エージェンシー・オブ・ザ・イヤーに輝いた。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=London+Museum+Grit+Glitter+Uncommon+2026"
+            },
+            {
+              "label": "🔗 One Show受賞",
+              "cls": "lb-src",
+              "url": "https://www.media-marketing.com/en/news/uncommon-creative-studio-london-named-europe-agency-of-the-year-at-the-one-show-2026/"
+            },
+            {
+              "label": "📰 Design Week",
+              "cls": "lb-off",
+              "url": "https://www.designweek.co.uk/uncommon-creative-studios-pigeon-based-identity-for-london-museum/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "label": "2026年6月11日 更新分",

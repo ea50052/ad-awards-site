@@ -1,134 +1,210 @@
 {
   "existing_ids": [
-    "nike-so-win",
-    "call-of-discounts",
-    "kitkat-commuter-camo",
-    "assume-i-can",
-    "voice-2-diabetes",
-    "haaland-payback",
-    "popemobile-for-gaza",
-    "caption-with-intention",
-    "whisper-project-early-periods",
-    "canal-plus-tango",
-    "three-words-axa",
-    "spreadbeats",
-    "heinz-dipper",
-    "marina-prieto",
-    "mcdonalds-no-smiles",
-    "apple-flock",
-    "london-museum-grit-glitter",
-    "anthropic-a-time-and-a-place",
     "nike-winning",
-    "shiseido-best-after-2055",
-    "acko-tailor",
-    "ee-yes-boys-worldcup",
-    "shot-on-iphone",
-    "ok-go-love",
-    "axe-smell-your-best",
-    "i-wool-survive-grindr",
-    "lucky-yatra",
-    "dove-real-beauty",
-    "columbia-expedition-impossible",
-    "ee-yes-boys",
-    "mastercard-lady-gaga-abracadabra",
-    "sounds-right",
-    "jacquemus-liline-ambassador",
-    "bbc-trails-will-blaze",
-    "the-ordinary-periodic-fable",
-    "vaseline-verified",
-    "paris2024-design",
-    "tracking-bad-bunny",
-    "ikea-u-up",
-    "delivereasy-billboards",
-    "breastmilk-money",
-    "mountain-dew-darescore",
-    "vi-guardian-beads",
-    "ba-reflections",
-    "voice-2-diabetes-klick",
-    "sting-f1-unofficial-sound",
-    "night-fishing",
-    "coinbase-your-way-out",
-    "adidas-backyard-legends",
-    "nz-herpes",
-    "final-exam-change-the-ref",
-    "heineken-pub-succession",
-    "maori-roll-call",
-    "lvmh-paris2024",
     "gulf-of-mexico-bar",
-    "child-wedding-cards"
+    "lucky-yatra",
+    "telstra-better-on-a-better-network",
+    "whisper-project-early-periods",
+    "acko-tailor",
+    "nike-so-win",
+    "child-wedding-cards",
+    "mcdonalds-no-smiles",
+    "delivereasy-billboards",
+    "shiseido-best-after-2055",
+    "dove-real-beauty",
+    "shot-on-iphone",
+    "ba-reflections",
+    "sting-f1-unofficial-sound",
+    "idomed-nigrum-corpus",
+    "haaland-payback",
+    "ee-yes-boys-worldcup",
+    "lvmh-paris2024",
+    "adidas-backyard-legends",
+    "mountain-dew-darescore",
+    "jacquemus-liline-ambassador",
+    "columbia-expedition-impossible",
+    "vi-guardian-beads",
+    "bbc-trails-will-blaze",
+    "three-words-axa",
+    "vaseline-verified",
+    "assume-i-can",
+    "ikea-u-up",
+    "voice-2-diabetes",
+    "i-wool-survive-grindr",
+    "maori-roll-call",
+    "ee-yes-boys",
+    "popemobile-for-gaza",
+    "heinz-dipper",
+    "mastercard-lady-gaga-abracadabra",
+    "caption-with-intention",
+    "nz-herpes",
+    "breastmilk-money",
+    "heineken-pub-succession",
+    "sounds-right",
+    "axe-smell-your-best",
+    "the-ordinary-periodic-fable",
+    "kitkat-commuter-camo",
+    "final-exam-change-the-ref",
+    "marina-prieto",
+    "canal-plus-tango",
+    "london-museum-grit-glitter",
+    "ok-go-love",
+    "spreadbeats",
+    "voice-2-diabetes-klick",
+    "paris2024-design",
+    "night-fishing",
+    "tracking-bad-bunny",
+    "call-of-discounts",
+    "coinbase-your-way-out",
+    "apple-flock",
+    "anthropic-a-time-and-a-place"
   ],
-  "current_main_last_updated": "2026-06-13",
+  "current_main_last_updated": "2026-06-15",
   "current_main_campaigns": [
     {
-      "id": "bbc-trails-will-blaze",
-      "award": "Clio Awards 2026",
-      "awardShort": "clio",
+      "id": "telstra-better-on-a-better-network",
+      "award": "Cannes Lions 2025 Film Craft Grand Prix",
+      "awardShort": "cannes",
       "year": "2026",
       "medal": "grand",
-      "medalLabel": "グランドClio（Film Craft）",
-      "brand": "BBC",
-      "emoji": "🎿",
-      "bg": "bg-coc",
-      "title": "トレイルズ・ウィル・ブレイズ",
-      "titleEn": "Trails Will Blaze",
-      "agency": "NOMINT",
-      "country": "イギリス",
-      "summary": "手描きアニメが刻む冬季五輪への軌跡",
-      "desc": "BBCのミラノ・コルティナ冬季オリンピック放送に向けたブランドフィルム。アニメーションスタジオNOMINTが手がけ、雪と氷の大地にアスリートたちが自らの軌跡を切り拓いていく姿を、絵画的な質感のクラフトアニメーションで描いた。圧倒的な映像美が評価され、2026年Clio AwardsのFilm Craft部門でグランドClioを受賞。",
+      "medalLabel": "グランプリ",
+      "brand": "Telstra",
+      "emoji": "🦘",
+      "bg": "bg-nz",
+      "title": "より良いネットワークの上で",
+      "titleEn": "Better on a Better Network",
+      "agency": "Bear Meets Eagle On Fire / +61",
+      "country": "オーストラリア",
+      "summary": "26本のストップモーションで描く豪州の暮らし",
+      "desc": "豪州の通信会社Telstraが、各地の風景とそこに暮らすユニークな生き物たちを精巧なストップモーションで描いた26本のフィルム。手作業の温かみと丁寧な脚本で「シンプルで人間味あふれる」作品としてフィルムクラフト部門グランプリを受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Trails+Will+Blaze+BBC+NOMINT"
+          "url": "https://www.youtube.com/results?search_query=Telstra+Better+on+a+Better+Network+stop+motion"
         },
         {
           "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.llllitl.fr/2026/05/clio-awards-2026-grand-prix/"
+          "url": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
         },
         {
           "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://www.media-marketing.com/en/news/clio-awards-2026-showed-why-campaigns-that-become-part-of-culture-are-winning-today/"
+          "url": "https://adage.com/events-awards/cannes-lions/aa-telstra-better-on-a-better-mobile-network-film-craft/"
         }
       ]
     },
     {
-      "id": "delivereasy-billboards",
-      "award": "Spikes Asia 2026",
-      "awardShort": "spikes",
+      "id": "idomed-nigrum-corpus",
+      "award": "Cannes Lions 2025 Industry Craft Grand Prix",
+      "awardShort": "cannes",
       "year": "2026",
       "medal": "grand",
       "medalLabel": "グランプリ",
-      "brand": "Delivereasy",
-      "emoji": "🐝",
-      "bg": "bg-nz",
-      "title": "デリバリーイージー 自虐ビルボード",
-      "titleEn": "Delivereasy: Killer Bees / Crippled Pigeons / Street Condoms",
-      "agency": "Colenso BBDO（オークランド）",
-      "country": "ニュージーランド",
-      "summary": "街のリアルを逆手に取った屋外広告",
-      "desc": "ニュージーランドのフードデリバリー企業Delivereasyによる屋外広告シリーズ。「殺人蜂」「足の悪い鳩」「路上のコンドーム」など、外出したくなくなる街のリアルな光景をユーモラスに描き、「だから配達を頼もう」と逆説的に訴求。ローカルな共感を呼ぶ大胆なコピーが評価され、Spikes Asia 2026でグランプリを受賞。",
+      "brand": "IDOMED",
+      "emoji": "📖",
+      "bg": "bg-cdown",
+      "title": "ニグルム・コルプス",
+      "titleEn": "Nigrum Corpus",
+      "agency": "Artplan, São Paulo",
+      "country": "ブラジル",
+      "summary": "医療における人種差別を暴く一冊の本",
+      "desc": "医療教育機関IDOMEDが、ブラジル医療に潜む人種差別を解剖学イラストと花柄で表現した書籍『Nigrum Corpus』。黒人が受ける医療上の不利益を20の架空の病として可視化し、医学部へ配布。インダストリークラフト部門グランプリを受賞。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Delivereasy+Colenso+BBDO+billboards"
+          "url": "https://www.youtube.com/watch?v=W5tFUATY_yc"
         },
         {
           "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+          "url": "https://www.lovethework.com/work-awards/campaigns/nigrum-corpus-1829483"
         },
         {
           "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+          "url": "https://creative.salon/cannes-lions-curated/cannes-lions-2025-curated/industry-craft-cannes-lions-2025"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-13",
+      "label": "2026年6月13日 更新分",
+      "campaigns": [
+        {
+          "id": "bbc-trails-will-blaze",
+          "award": "Clio Awards 2026",
+          "awardShort": "clio",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランドClio（Film Craft）",
+          "brand": "BBC",
+          "emoji": "🎿",
+          "bg": "bg-coc",
+          "title": "トレイルズ・ウィル・ブレイズ",
+          "titleEn": "Trails Will Blaze",
+          "agency": "NOMINT",
+          "country": "イギリス",
+          "summary": "手描きアニメが刻む冬季五輪への軌跡",
+          "desc": "BBCのミラノ・コルティナ冬季オリンピック放送に向けたブランドフィルム。アニメーションスタジオNOMINTが手がけ、雪と氷の大地にアスリートたちが自らの軌跡を切り拓いていく姿を、絵画的な質感のクラフトアニメーションで描いた。圧倒的な映像美が評価され、2026年Clio AwardsのFilm Craft部門でグランドClioを受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Trails+Will+Blaze+BBC+NOMINT"
+            },
+            {
+              "label": "🔗 受賞ページ",
+              "cls": "lb-src",
+              "url": "https://www.llllitl.fr/2026/05/clio-awards-2026-grand-prix/"
+            },
+            {
+              "label": "📰 メディア記事",
+              "cls": "lb-off",
+              "url": "https://www.media-marketing.com/en/news/clio-awards-2026-showed-why-campaigns-that-become-part-of-culture-are-winning-today/"
+            }
+          ]
+        },
+        {
+          "id": "delivereasy-billboards",
+          "award": "Spikes Asia 2026",
+          "awardShort": "spikes",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランプリ",
+          "brand": "Delivereasy",
+          "emoji": "🐝",
+          "bg": "bg-nz",
+          "title": "デリバリーイージー 自虐ビルボード",
+          "titleEn": "Delivereasy: Killer Bees / Crippled Pigeons / Street Condoms",
+          "agency": "Colenso BBDO（オークランド）",
+          "country": "ニュージーランド",
+          "summary": "街のリアルを逆手に取った屋外広告",
+          "desc": "ニュージーランドのフードデリバリー企業Delivereasyによる屋外広告シリーズ。「殺人蜂」「足の悪い鳩」「路上のコンドーム」など、外出したくなくなる街のリアルな光景をユーモラスに描き、「だから配達を頼もう」と逆説的に訴求。ローカルな共感を呼ぶ大胆なコピーが評価され、Spikes Asia 2026でグランプリを受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Delivereasy+Colenso+BBDO+billboards"
+            },
+            {
+              "label": "🔗 受賞ページ",
+              "cls": "lb-src",
+              "url": "https://www.spikes.asia/news/spikes-asia-announces-its-2026-winners"
+            },
+            {
+              "label": "📰 メディア記事",
+              "cls": "lb-off",
+              "url": "https://www.campaignasia.com/article/india-leads-the-grand-prix-tally-at-spikes-asia-2026-as-uzbekistan-secures-first-ever-wins/47csqhyzqca52tsp2v2vzkcpw3"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "label": "2026年6月12日 更新分",

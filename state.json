@@ -1,136 +1,212 @@
 {
   "existing_ids": [
-    "nike-winning",
-    "gulf-of-mexico-bar",
-    "lucky-yatra",
-    "telstra-better-on-a-better-network",
-    "whisper-project-early-periods",
-    "acko-tailor",
-    "nike-so-win",
-    "child-wedding-cards",
+    "shot-on-iphone",
+    "apple-flock",
+    "call-of-discounts",
     "mcdonalds-no-smiles",
+    "lvmh-paris2024",
+    "maori-roll-call",
+    "night-fishing",
+    "anthropic-a-time-and-a-place",
+    "whisper-project-early-periods",
+    "haaland-payback",
+    "vaseline-verified",
+    "axe-smell-your-best",
+    "gulf-of-mexico-bar",
+    "dove-real-beauty",
+    "final-exam-change-the-ref",
+    "godaddy-act-like-you-know",
+    "marina-prieto",
+    "the-ordinary-periodic-fable",
+    "paris2024-design",
+    "kitkat-commuter-camo",
+    "ba-reflections",
+    "caption-with-intention",
+    "kitkat-phone-break",
+    "london-museum-grit-glitter",
+    "bbc-trails-will-blaze",
+    "i-wool-survive-grindr",
+    "lucky-yatra",
+    "acko-tailor",
+    "vi-guardian-beads",
+    "coinbase-your-way-out",
+    "tracking-bad-bunny",
+    "columbia-expedition-impossible",
+    "nz-herpes",
+    "sting-f1-unofficial-sound",
+    "nike-winning",
+    "three-words-axa",
+    "assume-i-can",
+    "ee-yes-boys",
+    "jacquemus-liline-ambassador",
+    "voice-2-diabetes-klick",
+    "ee-yes-boys-worldcup",
+    "canal-plus-tango",
     "delivereasy-billboards",
     "shiseido-best-after-2055",
-    "dove-real-beauty",
-    "shot-on-iphone",
-    "ba-reflections",
-    "sting-f1-unofficial-sound",
-    "idomed-nigrum-corpus",
-    "haaland-payback",
-    "ee-yes-boys-worldcup",
-    "lvmh-paris2024",
-    "adidas-backyard-legends",
-    "mountain-dew-darescore",
-    "jacquemus-liline-ambassador",
-    "columbia-expedition-impossible",
-    "vi-guardian-beads",
-    "bbc-trails-will-blaze",
-    "three-words-axa",
-    "vaseline-verified",
-    "assume-i-can",
-    "ikea-u-up",
     "voice-2-diabetes",
-    "i-wool-survive-grindr",
-    "maori-roll-call",
-    "ee-yes-boys",
+    "sounds-right",
+    "mastercard-lady-gaga-abracadabra",
+    "ikea-u-up",
+    "child-wedding-cards",
+    "adidas-backyard-legends",
+    "breastmilk-money",
+    "mountain-dew-darescore",
+    "nike-so-win",
+    "heineken-pub-succession",
     "popemobile-for-gaza",
     "heinz-dipper",
-    "mastercard-lady-gaga-abracadabra",
-    "caption-with-intention",
-    "nz-herpes",
-    "breastmilk-money",
-    "heineken-pub-succession",
-    "sounds-right",
-    "axe-smell-your-best",
-    "the-ordinary-periodic-fable",
-    "kitkat-commuter-camo",
-    "final-exam-change-the-ref",
-    "marina-prieto",
-    "canal-plus-tango",
-    "london-museum-grit-glitter",
-    "ok-go-love",
     "spreadbeats",
-    "voice-2-diabetes-klick",
-    "paris2024-design",
-    "night-fishing",
-    "tracking-bad-bunny",
-    "call-of-discounts",
-    "coinbase-your-way-out",
-    "apple-flock",
-    "anthropic-a-time-and-a-place"
+    "idomed-nigrum-corpus",
+    "telstra-better-on-a-better-network",
+    "ok-go-love"
   ],
-  "current_main_last_updated": "2026-06-15",
+  "current_main_last_updated": "2026-06-18",
   "current_main_campaigns": [
     {
-      "id": "telstra-better-on-a-better-network",
-      "award": "Cannes Lions 2025 Film Craft Grand Prix",
+      "id": "godaddy-act-like-you-know",
+      "award": "Cannes Lions",
       "awardShort": "cannes",
-      "year": "2026",
+      "year": "2025",
       "medal": "grand",
-      "medalLabel": "グランプリ",
-      "brand": "Telstra",
-      "emoji": "🦘",
-      "bg": "bg-nz",
-      "title": "より良いネットワークの上で",
-      "titleEn": "Better on a Better Network",
-      "agency": "Bear Meets Eagle On Fire / +61",
-      "country": "オーストラリア",
-      "summary": "26本のストップモーションで描く豪州の暮らし",
-      "desc": "豪州の通信会社Telstraが、各地の風景とそこに暮らすユニークな生き物たちを精巧なストップモーションで描いた26本のフィルム。手作業の温かみと丁寧な脚本で「シンプルで人間味あふれる」作品としてフィルムクラフト部門グランプリを受賞。",
+      "medalLabel": "Creative B2B グランプリ",
+      "brand": "GoDaddy",
+      "emoji": "🕶️",
+      "bg": "bg-cdown",
+      "title": "知ったかぶりこそ最強のスキル",
+      "titleEn": "Act Like You Know",
+      "agency": "Quality Meats",
+      "country": "アメリカ",
+      "summary": "ウォルトン・ゴギンズが演じる「ハッタリ」のスーパーボウル広告",
+      "desc": "俳優ウォルトン・ゴギンズが「名優の秘訣は知ったかぶり」と語りながらF1ドライバーや探偵を熱演。最後は中小企業オーナー役へ。実在のメガネブランド「Goggins Goggles」をGoDaddyのAIツールAiroだけで構築し、B2B広告の常識を覆してグランプリを受賞した。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/results?search_query=Telstra+Better+on+a+Better+Network+stop+motion"
+          "url": "https://www.youtube.com/results?search_query=GoDaddy+Act+Like+You+Know+Walton+Goggins"
         },
         {
           "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+          "url": "https://adage.com/events-awards/cannes-lions/aa-go-daddy-act-like-you-know-creative-b2b/"
         },
         {
           "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://adage.com/events-awards/cannes-lions/aa-telstra-better-on-a-better-mobile-network-film-craft/"
+          "url": "https://www.adweek.com/creativity/godaddys-super-bowl-ad-starring-walton-goggins-wins-cannes-lions-b2b-grand-prix/"
         }
       ]
     },
     {
-      "id": "idomed-nigrum-corpus",
-      "award": "Cannes Lions 2025 Industry Craft Grand Prix",
+      "id": "kitkat-phone-break",
+      "award": "Cannes Lions",
       "awardShort": "cannes",
-      "year": "2026",
+      "year": "2025",
       "medal": "grand",
-      "medalLabel": "グランプリ",
-      "brand": "IDOMED",
-      "emoji": "📖",
-      "bg": "bg-cdown",
-      "title": "ニグルム・コルプス",
-      "titleEn": "Nigrum Corpus",
-      "agency": "Artplan, São Paulo",
-      "country": "ブラジル",
-      "summary": "医療における人種差別を暴く一冊の本",
-      "desc": "医療教育機関IDOMEDが、ブラジル医療に潜む人種差別を解剖学イラストと花柄で表現した書籍『Nigrum Corpus』。黒人が受ける医療上の不利益を20の架空の病として可視化し、医学部へ配布。インダストリークラフト部門グランプリを受賞。",
+      "medalLabel": "Outdoor グランプリ",
+      "brand": "KitKat",
+      "emoji": "📱",
+      "bg": "bg-lvmh",
+      "title": "スマホを置いて、ひと休み",
+      "titleEn": "Phone Break",
+      "agency": "VML Prague",
+      "country": "チェコ",
+      "summary": "スマホをキットカットに置き換えた屋外広告シリーズ",
+      "desc": "通勤客や歩行者がスマホに没頭する日常の風景を切り取り、その手のスマートフォンをキットカットに差し替えた屋外広告。「Have a break, have a KitKat（ひと休みしよう）」のメッセージを鮮やかに体現し、Outdoor部門グランプリを受賞した。",
       "links": [
         {
           "label": "▶ YouTubeで検索",
           "cls": "lb-video",
-          "url": "https://www.youtube.com/watch?v=W5tFUATY_yc"
+          "url": "https://www.youtube.com/results?search_query=KitKat+Phone+Break+VML+Cannes"
         },
         {
           "label": "🔗 受賞ページ",
           "cls": "lb-src",
-          "url": "https://www.lovethework.com/work-awards/campaigns/nigrum-corpus-1829483"
+          "url": "https://www.canneslions.com/news/winners-of-the-creative-data-direct-media-pr-and-social-and-creator-lions-announced"
         },
         {
           "label": "📰 メディア記事",
           "cls": "lb-off",
-          "url": "https://creative.salon/cannes-lions-curated/cannes-lions-2025-curated/industry-craft-cannes-lions-2025"
+          "url": "https://lbbonline.com/"
         }
       ]
     }
   ],
   "archive_batches": [
+    {
+      "date": "2026-06-15",
+      "label": "2026年6月15日 更新分",
+      "campaigns": [
+        {
+          "id": "telstra-better-on-a-better-network",
+          "award": "Cannes Lions 2025 Film Craft Grand Prix",
+          "awardShort": "cannes",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランプリ",
+          "brand": "Telstra",
+          "emoji": "🦘",
+          "bg": "bg-nz",
+          "title": "より良いネットワークの上で",
+          "titleEn": "Better on a Better Network",
+          "agency": "Bear Meets Eagle On Fire / +61",
+          "country": "オーストラリア",
+          "summary": "26本のストップモーションで描く豪州の暮らし",
+          "desc": "豪州の通信会社Telstraが、各地の風景とそこに暮らすユニークな生き物たちを精巧なストップモーションで描いた26本のフィルム。手作業の温かみと丁寧な脚本で「シンプルで人間味あふれる」作品としてフィルムクラフト部門グランプリを受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/results?search_query=Telstra+Better+on+a+Better+Network+stop+motion"
+            },
+            {
+              "label": "🔗 受賞ページ",
+              "cls": "lb-src",
+              "url": "https://www.canneslions.com/news/lion-winners-announced-for-day-four-of-the-festival"
+            },
+            {
+              "label": "📰 メディア記事",
+              "cls": "lb-off",
+              "url": "https://adage.com/events-awards/cannes-lions/aa-telstra-better-on-a-better-mobile-network-film-craft/"
+            }
+          ]
+        },
+        {
+          "id": "idomed-nigrum-corpus",
+          "award": "Cannes Lions 2025 Industry Craft Grand Prix",
+          "awardShort": "cannes",
+          "year": "2026",
+          "medal": "grand",
+          "medalLabel": "グランプリ",
+          "brand": "IDOMED",
+          "emoji": "📖",
+          "bg": "bg-cdown",
+          "title": "ニグルム・コルプス",
+          "titleEn": "Nigrum Corpus",
+          "agency": "Artplan, São Paulo",
+          "country": "ブラジル",
+          "summary": "医療における人種差別を暴く一冊の本",
+          "desc": "医療教育機関IDOMEDが、ブラジル医療に潜む人種差別を解剖学イラストと花柄で表現した書籍『Nigrum Corpus』。黒人が受ける医療上の不利益を20の架空の病として可視化し、医学部へ配布。インダストリークラフト部門グランプリを受賞。",
+          "links": [
+            {
+              "label": "▶ YouTubeで検索",
+              "cls": "lb-video",
+              "url": "https://www.youtube.com/watch?v=W5tFUATY_yc"
+            },
+            {
+              "label": "🔗 受賞ページ",
+              "cls": "lb-src",
+              "url": "https://www.lovethework.com/work-awards/campaigns/nigrum-corpus-1829483"
+            },
+            {
+              "label": "📰 メディア記事",
+              "cls": "lb-off",
+              "url": "https://creative.salon/cannes-lions-curated/cannes-lions-2025-curated/industry-craft-cannes-lions-2025"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-06-13",
       "label": "2026年6月13日 更新分",
